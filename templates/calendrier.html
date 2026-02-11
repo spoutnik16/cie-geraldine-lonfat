@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}Calendrier — Compagnie Géraldine Lonfat{% endblock %}
+
+{% block content %}
+
+<section style="padding-top: 8rem;">
+  <div class="container">
+    <div class="section-header">
+      <h2>Calendrier des représentations</h2>
+      <p>{{ total_played }} représentations jouées{% if total_cancelled > 0 %}, {{ total_cancelled }} annulées{% endif %} — de {{ first_year }} à {{ last_year }}</p>
+    </div>
+
+    {% for year, year_events in events_by_year|reverse %}
+    <div class="year-group">
+      <h3>{{ year }}</h3>
+      <table class="events-table">
+        {% for ev in year_events %}
+        <tr{% if ev.cancelled %} class="cancelled"{% endif %}>
+          <td class="date-col">{{ ev.date_display }}</td>
+          <td class="show-col">{{ ev.show_name }}</td>
+          <td class="venue-col">{{ ev.venue }}, {{ ev.city }}{% if ev.country %} ({{ ev.country }}){% endif %}</td>
+        </tr>
+        {% endfor %}
+      </table>
+    </div>
+    {% endfor %}
+
+  </div>
+</section>
+
+{% endblock %}

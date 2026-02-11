@@ -1,0 +1,5920 @@
+[
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2003-11-07T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-08T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-09T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-11T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-12T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-13T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-14T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-15T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-16T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-18T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-19T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-20T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-21T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-22T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-23T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-25T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-26T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2003-11-27T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre du Crochetan",
+    "city": "Monthey",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2004-02-05T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "La Poste Theater",
+    "city": "Visp",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2004-03-26T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2004-04-29T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre de Valère",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2004-07-15T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-07-16T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-07-17T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-07-18T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-07-20T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-07-21T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-07-22T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-07-23T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-07-24T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-07-25T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Alpages de Thyon",
+    "city": "Thyon-les-Collons",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2004-08-09T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-08-10T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-08-11T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-08-12T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-08-13T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-08-14T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-08-15T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2004-10-07T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-10-08T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-10-11T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-10-12T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-10-13T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-10-14T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2004-10-15T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2005-11-11T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Théâtre du Crochetan",
+    "city": "Monthey",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2006-01-20T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2006-03-16T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Theater im Ballsaal",
+    "city": "Bonn",
+    "country": "Allemagne",
+    "dates": [
+      {
+        "datetime": "2006-05-01T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Creux de Nax",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2006-08-08T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-09T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-10T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-11T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-12T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-13T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-14T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-15T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-16T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-17T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-18T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-19T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-20T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2006-08-21T00:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Teatro Il Gatto",
+    "city": "Ascona",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2006-09-09T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "CDC la Termitière",
+    "city": "Ouagadougou",
+    "country": "Burkina Faso",
+    "dates": [
+      {
+        "datetime": "2006-12-15T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 4,
+    "show_name": "Les Hérétiques",
+    "venue": "Ancien pénitencier de Valère",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2007-02-16T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-02-17T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-02-18T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-02-20T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-02-21T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-02-22T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-02-23T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-02-24T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-02-25T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Maison de la Culture Ancienne Couronne",
+    "city": "Bienne",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2007-04-01T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Centre de Culture & de Loisirs",
+    "city": "Saint-Imier",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2007-05-05T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Le Gilgamesh",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2007-07-07T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-08T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-09T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-10T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-11T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-12T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-13T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-14T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-15T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-16T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-17T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-18T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-19T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-20T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-21T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-22T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-23T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-24T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-25T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-26T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-27T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-07-28T00:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Creux de Nax",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2007-08-10T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-08-11T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-08-12T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre Les Halles",
+    "city": "Sierre",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2007-09-01T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-09-02T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Teatro Il Gatto",
+    "city": "Ascona",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2007-09-07T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Les Montreurs d'images",
+    "city": "Genève",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2007-09-08T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2007-09-09T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Teatro Paravento",
+    "city": "Locarno",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2007-09-28T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Théâtre de l'Arbanel",
+    "city": "Treyvaux",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2008-01-19T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2008-03-06T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-03-07T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-03-08T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-03-09T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-03-11T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-03-12T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-03-13T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-03-14T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-03-15T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-03-16T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Gemeindesaal",
+    "city": "Hausen am Albis",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2008-05-17T22:15:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Ruhrfestspielhaus",
+    "city": "Recklinghausen",
+    "country": "Allemagne",
+    "dates": [
+      {
+        "datetime": "2008-05-29T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Semaine Taurino-culturelle de Saint-Sever",
+    "city": "Saint-Sever",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2008-06-28T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Le Gilgamesh",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2008-07-11T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-12T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-13T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-14T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-15T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-16T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-17T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-18T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-19T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-20T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-21T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-22T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-23T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-24T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-25T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-26T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-27T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-28T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-29T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-30T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-07-31T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-08-01T00:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-08-02T00:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Creux de Nax",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2008-09-11T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-09-12T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-09-13T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-09-14T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-09-15T00:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Teatro Paravento",
+    "city": "Locarno",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2008-10-24T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-10-25T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Les Montreurs d'images",
+    "city": "Genève",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2008-11-28T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-11-29T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Les Montreurs d'images",
+    "city": "Genève",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2008-12-12T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2008-12-13T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "La Poste Theater",
+    "city": "Visp",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2009-01-29T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-01-30T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Théâtre Les Halles",
+    "city": "Sierre",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2009-02-13T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-02-14T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2009-04-21T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-04-22T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-04-23T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-04-24T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-04-25T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-04-26T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-04-28T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-04-29T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-04-30T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-05-01T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-05-02T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-05-03T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-05-05T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-05-06T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-05-07T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-05-08T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-05-09T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-05-10T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Teatro Tarambana",
+    "city": "Madrid",
+    "country": "Espagne",
+    "dates": [
+      {
+        "datetime": "2009-05-20T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Festival international Teatru Iasi",
+    "city": "Iași",
+    "country": "Roumanie",
+    "dates": [
+      {
+        "datetime": "2009-07-03T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Le Gilgamesh",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2009-07-09T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-10T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-11T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-12T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-13T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-14T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-15T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-16T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-17T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-18T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-19T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-20T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-21T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-22T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-23T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-24T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-25T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-26T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-27T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-28T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-29T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-30T00:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-07-31T00:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre Municipal de Villefranche-de-Rouergue",
+    "city": "Villefranche-de-Rouergue",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2009-08-08T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Centre Culturel Robert Desnos",
+    "city": "Ris-Orangis",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2009-09-03T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-09-04T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-09-05T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-09-06T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre Liger",
+    "city": "Nîmes",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2009-10-02T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Teatrul Prichindel Festivalul",
+    "city": "Alba Iulia",
+    "country": "Roumanie",
+    "dates": [
+      {
+        "datetime": "2009-10-11T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Teatrul Național Tîrgu-Mureș",
+    "city": "Tîrgu-Mureș",
+    "country": "Roumanie",
+    "dates": [
+      {
+        "datetime": "2009-10-14T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Teatrul Prichindel Festivalul",
+    "city": "Alba Iulia",
+    "country": "Roumanie",
+    "dates": [
+      {
+        "datetime": "2009-10-17T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Teatro Paravento",
+    "city": "Locarno",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2009-10-30T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2009-10-31T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre des Carmes André Benedetto",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2009-11-01T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "City Theater of Tehran",
+    "city": "Tehran",
+    "country": "Iran",
+    "dates": [
+      {
+        "datetime": "2010-01-29T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Auditorium de l'Encre",
+    "city": "Cayenne",
+    "country": "Guyane",
+    "dates": [
+      {
+        "datetime": "2010-03-31T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Théâtre de Macouria",
+    "city": "Macouria",
+    "country": "Guyane",
+    "dates": [
+      {
+        "datetime": "2010-04-01T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2010-05-19T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2010-05-26T00:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Le Dôme - La Bulle",
+    "city": "Beirut",
+    "country": "Liban",
+    "dates": [
+      {
+        "datetime": "2010-06-04T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre des Carmes André Benedetto",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2010-07-08T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-09T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-10T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-11T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-12T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-13T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-14T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-15T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-16T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-17T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-18T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-19T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-20T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-21T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-22T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-23T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-24T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-25T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-26T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-27T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-28T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-29T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-30T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-07-31T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2010-08-13T00:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2010-08-15T00:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Teatro Studio Foce",
+    "city": "Lugano",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2010-09-12T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2010-10-23T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-10-24T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2010-10-25T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2011-01-01T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre du Moulin-Neuf",
+    "city": "Aigle",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2011-02-18T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-02-19T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-02-20T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Ruhrfestspielhaus",
+    "city": "Recklinghausen",
+    "country": "Allemagne",
+    "dates": [
+      {
+        "datetime": "2011-05-24T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-05-25T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-05-26T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-05-27T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-05-28T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-05-29T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2011-07-07T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-08T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-09T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-10T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-11T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-12T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-13T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-14T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-15T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-16T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-17T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-18T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-19T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-20T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-21T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-22T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-23T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-24T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-25T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-26T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-27T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-28T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-29T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-07-30T12:45:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2011-11-25T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2011-11-26T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Mierscher Kulturhaus",
+    "city": "Mersch",
+    "country": "Luxembourg",
+    "dates": [
+      {
+        "datetime": "2012-01-26T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Teatro Studio Foce",
+    "city": "Lugano",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2012-02-03T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-02-04T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-02-05T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2012-02-11T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-02-12T16:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre Municipal d'Autun",
+    "city": "Autun",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2012-02-17T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2012-03-22T12:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2012-06-29T00:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2012-07-07T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-08T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-09T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-10T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-11T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-12T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-13T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-14T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-15T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-16T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-17T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-18T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-19T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-20T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-21T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-22T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-23T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-24T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-25T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-26T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-27T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-07-28T12:45:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre des Mathurins",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2012-08-26T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-08-27T23:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-09-02T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-09-03T23:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-09-09T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-09-10T23:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-09-16T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-09-17T23:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2012-09-20T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-09-21T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre des Mathurins",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2012-09-23T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-09-24T23:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-09-30T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-10-01T23:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-10-07T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-10-08T23:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre du Martolet",
+    "city": "Saint-Maurice",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2012-10-11T17:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre des Mathurins",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2012-10-14T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-10-15T23:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-10-21T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-10-22T23:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-10-28T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-10-29T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-11-04T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-11-05T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-11-11T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-11-12T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2012-11-17T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre des Mathurins",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2012-11-18T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-11-19T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-11-25T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-11-26T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "La Maline",
+    "city": "La Couarde-sur-Mer",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2012-11-30T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 7,
+    "show_name": "Shabbath",
+    "venue": "Théâtre des Mathurins",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2012-12-02T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-12-03T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-12-09T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-12-10T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-12-16T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2012-12-17T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2013-01-11T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-12T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-13T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-15T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-16T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-17T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-18T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-19T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-20T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-22T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-23T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-24T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-25T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-26T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-01-27T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Les tanzmatten de Sélestat",
+    "city": "Sélestat",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-02-02T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Centre Culturel Boris Vian",
+    "city": "Les Ulis",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-02-07T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Salle Jacques Brel",
+    "city": "Montigny-le-Bretonneux",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-02-12T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Théâtre de Poissy",
+    "city": "Poissy",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-02-15T23:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Théâtre du Luxembourg",
+    "city": "Meaux",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-02-16T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Théâtre des Chalands",
+    "city": "Val-de-Reuil",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-04-05T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Théâtre des Chalands",
+    "city": "Val-de-Reuil",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-04-06T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Salle Verdun",
+    "city": "L'Aigle",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-04-11T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Salle Aristide Briand",
+    "city": "Saint-Chamond",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-04-14T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 8,
+    "show_name": "Kaos",
+    "venue": "Gemeindesaal",
+    "city": "Hausen am Albis",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2013-05-25T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre du Galpon",
+    "city": "Genève",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2013-06-07T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-06-08T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-06-09T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-07-06T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-07T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-08T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-09T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-10T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-11T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-12T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-13T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-14T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-15T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-16T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-17T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-18T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-19T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-20T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-21T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-22T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-23T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-24T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-25T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-26T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-27T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-07-28T12:45:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2013-08-08T23:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre Laboratoire EC",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-10-07T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-08T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-09T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-10T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-11T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-12T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2013-10-17T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre Laboratoire EC",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2013-10-18T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-19T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-22T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-23T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-24T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-25T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-26T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-29T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-30T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-10-31T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-01T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-02T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-05T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-06T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-07T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-08T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-09T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-12T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-13T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-14T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-15T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-16T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-19T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-20T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-21T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-22T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-23T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-26T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-27T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-28T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-29T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-11-30T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-03T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-04T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-05T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-06T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-07T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-10T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-11T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-12T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-13T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-14T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-17T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-18T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-19T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-20T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2013-12-21T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2014-02-20T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-02-21T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-02-22T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre Laboratoire EC",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2014-03-11T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-12T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-13T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-14T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-15T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-18T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-19T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-20T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-21T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-22T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-25T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-26T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-27T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-28T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-03-29T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-01T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-02T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-03T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-04T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-05T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-08T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-09T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-10T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-11T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-12T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-15T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-16T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-17T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-18T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-19T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-22T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-23T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-24T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-25T23:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-04-26T23:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Dongnae Cultural Center",
+    "city": "Busan",
+    "country": "Corée du Sud",
+    "dates": [
+      {
+        "datetime": "2014-05-02T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-05-03T19:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Eulsukdo Cultural Center",
+    "city": "Busan",
+    "country": "Corée du Sud",
+    "dates": [
+      {
+        "datetime": "2014-05-05T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Yeongdo Cultural Center",
+    "city": "Busan",
+    "country": "Corée du Sud",
+    "dates": [
+      {
+        "datetime": "2014-05-09T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2014-06-06T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-06-07T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-06-08T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2014-07-05T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-06T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-07T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-08T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-09T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-10T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-11T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-12T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-13T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-14T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-15T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-16T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-17T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-18T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-19T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-20T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-21T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-22T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-23T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-24T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-25T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-26T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-07-27T12:45:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Arènes de Gallargues",
+    "city": "Gallargues le Montueux",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2014-08-06T00:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Auditorium de l'Hôtel Novotel Atria",
+    "city": "Nîmes",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2014-09-19T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-09-20T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "La Maline",
+    "city": "La Couarde-sur-Mer",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2014-09-26T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2014-10-08T23:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-10-09T23:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-10-10T23:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-10-11T23:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre Laboratoire EC",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2014-11-05T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-06T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-07T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-08T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-09T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-12T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-13T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-14T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-15T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-16T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-19T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-20T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-21T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-22T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-23T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-26T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-27T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-28T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-29T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-11-30T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-03T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-04T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-05T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-06T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-07T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-10T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-11T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-12T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-13T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-14T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-17T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-18T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-19T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-20T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-21T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-24T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-25T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-26T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-27T22:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2014-12-28T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Conservatorio Santa Cecilia",
+    "city": "Roma",
+    "country": "Italie",
+    "dates": [
+      {
+        "datetime": "2015-03-11T19:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Menuiserie Eskiss SA",
+    "city": "Martigny",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2015-03-20T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2015-03-21T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-03-22T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-03-23T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-03-24T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-03-25T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-03-26T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Espace Kiron",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2015-04-13T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-04-14T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-04-15T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-04-16T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-04-17T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-04-18T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Gymnase du Lycée de Vincendo",
+    "city": "Vincendo",
+    "country": "La Réunion",
+    "dates": [
+      {
+        "datetime": "2015-04-30T15:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-04-30T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-05-01T17:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-05-01T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Salle Jacques Brel",
+    "city": "Montigny-le-Bretonneux",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2015-05-05T22:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Eulsukdo Cultural Center",
+    "city": "Busan",
+    "country": "Corée du Sud",
+    "dates": [
+      {
+        "datetime": "2015-05-08T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Espace D",
+    "city": "Renens",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2015-05-09T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-05-10T19:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Dongnae Cultural Center",
+    "city": "Busan",
+    "country": "Corée du Sud",
+    "dates": [
+      {
+        "datetime": "2015-05-16T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Eulsukdo Cultural Center",
+    "city": "Busan",
+    "country": "Corée du Sud",
+    "dates": [
+      {
+        "datetime": "2015-05-18T22:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-05-19T22:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2015-06-14T23:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2015-07-04T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-05T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-06T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-07T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-08T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-09T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-10T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-11T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-12T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-13T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-14T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-15T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-16T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-17T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-18T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-19T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-20T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-21T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-22T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-23T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-24T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-25T12:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-07-26T12:45:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2015-09-25T13:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2015-11-26T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-11-27T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-11-28T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-11-29T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-12-03T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-12-04T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-12-05T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-12-06T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-12-10T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-12-11T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-12-12T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-12-13T18:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 4,
+    "show_name": "Les Hérétiques",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2015-12-18T21:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2015-12-19T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Théâtre Iprod",
+    "city": "Martigny",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-03-21T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Cafébibliothèque",
+    "city": "Chabrillan",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2016-04-02T19:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-06-17T23:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-06-21T17:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2016-07-06T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-07T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-08T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-09T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-10T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-12T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-13T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-14T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-15T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-16T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-17T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-19T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-20T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-21T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-22T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-23T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-24T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-26T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-27T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-28T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-29T10:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-07-30T10:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-09-09T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-09-10T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-09-11T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-09-13T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-09-14T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-09-20T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 4,
+    "show_name": "Les Hérétiques",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-09-25T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-11-11T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 3,
+    "show_name": "Traces",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-12-01T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-12-02T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-12-03T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2016-12-04T19:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Théâtre Iprod",
+    "city": "Martigny",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2016-12-21T21:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Théâtre du Martolet",
+    "city": "Saint-Maurice",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2017-02-21T11:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Teatro Tor Bella Monaca",
+    "city": "Roma",
+    "country": "Italie",
+    "dates": [
+      {
+        "datetime": "2017-03-07T14:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-03-07T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Conservatorio Santa Cecilia",
+    "city": "Roma",
+    "country": "Italie",
+    "dates": [
+      {
+        "datetime": "2017-03-09T19:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Studio des Arts Vivants",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "dates": [
+      {
+        "datetime": "2017-04-01T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Maison pour tous",
+    "city": "St-Joseph",
+    "country": "La Réunion",
+    "dates": [
+      {
+        "datetime": "2017-04-25T09:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-04-26T09:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-04-26T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-04-27T19:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Studio Hébertot",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2017-05-09T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-05-10T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-05-11T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-05-12T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-05-13T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-05-14T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-05-16T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-05-17T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-05-18T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-05-19T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-05-20T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2017-06-04T19:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 3,
+    "show_name": "Traces",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2017-06-06T19:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 3,
+    "show_name": "Traces",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2017-06-08T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 3,
+    "show_name": "Traces",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2017-06-21T19:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 1,
+    "show_name": "J'ai Hâte d'Aimer",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2017-07-07T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-08T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-09T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-10T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-11T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-12T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-13T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-14T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-15T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-16T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-17T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-18T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-19T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-20T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-21T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-22T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-23T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-24T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-25T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-26T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-27T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-28T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-29T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-30T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-07-31T10:45:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 3,
+    "show_name": "Traces",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2017-08-05T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 3,
+    "show_name": "Traces",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2017-08-24T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "ESR",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2017-09-28T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-09-29T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-09-30T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-10-06T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-10-07T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2017-12-08T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2017-12-09T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Tropique Atrium",
+    "city": "Martinique",
+    "country": "Martinique",
+    "dates": [
+      {
+        "datetime": "2018-02-01T09:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-02-02T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Maison pour tous",
+    "city": "St-Joseph",
+    "country": "La Réunion",
+    "dates": [
+      {
+        "datetime": "2018-04-26T13:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-04-26T18:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-04-27T13:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-04-27T18:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre Lucet Langenier",
+    "city": "St-Pierre",
+    "country": "La Réunion",
+    "dates": [
+      {
+        "datetime": "2018-04-28T15:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2018-06-21T16:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2018-07-06T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-07T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-08T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-09T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-11T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-12T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-13T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-14T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-15T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-16T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-18T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-19T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-20T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-21T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-22T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-23T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-25T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-26T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-27T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-07-28T10:45:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2018-08-04T16:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2018-08-05T15:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Hérens Arena",
+    "city": "Les Haudères",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2018-08-23T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-08-24T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-08-25T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2018-08-26T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2018-09-15T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2018-09-22T19:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Salle des Martelles",
+    "city": "Crans-Montana",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2018-09-29T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Casino de Montreux",
+    "city": "Montreux",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2018-10-07T18:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 5,
+    "show_name": "Teruel",
+    "venue": "Klaipėdos dramos teatras",
+    "city": "Klaipeda",
+    "country": "Latvia",
+    "dates": [
+      {
+        "datetime": "2018-10-20T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 6,
+    "show_name": "Pazzi",
+    "venue": "Théâtre de l'Escabeau",
+    "city": "Briare",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2018-11-02T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2018-11-23T17:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre de Tataouine",
+    "city": "Tataouine",
+    "country": "Tunisie",
+    "dates": [
+      {
+        "datetime": "2018-12-11T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Centre D'art Dramatique Medenine",
+    "city": "Médenine",
+    "country": "Tunisie",
+    "dates": [
+      {
+        "datetime": "2018-12-12T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Teatro Regina Margherita",
+    "city": "Caltanisetta",
+    "country": "Italie",
+    "dates": [
+      {
+        "datetime": "2018-12-16T18:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Aula des Creusets",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2019-02-25T11:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-02-25T15:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-02-26T11:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-02-26T15:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-02-27T11:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-02-27T15:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-02-27T15:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-02-28T11:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-02-28T11:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-02-28T15:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-03-01T11:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-03-01T15:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Studio des Arts Vivants",
+    "city": "Casablanca",
+    "country": "Maroc",
+    "dates": [
+      {
+        "datetime": "2019-03-22T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "1862 Theatre",
+    "city": "Shanghai",
+    "country": "Chine",
+    "dates": [
+      {
+        "datetime": "2019-04-19T19:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-04-20T14:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-04-20T19:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-04-21T14:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Royal Cultural Center",
+    "city": "Amman",
+    "country": "Jordan",
+    "dates": [
+      {
+        "datetime": "2019-05-01T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Festi'mai",
+    "city": "Biaudos",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2019-05-25T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Aula Nicolas Bouvier",
+    "city": "Genève",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2019-06-06T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-06-07T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Teatrul de Stat Constanta",
+    "city": "Constanta",
+    "country": "Roumanie",
+    "dates": [
+      {
+        "datetime": "2019-06-22T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Salle du Stand",
+    "city": "Moutier",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2019-06-27T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-06-28T10:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2019-07-05T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-06T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-07T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-08T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-10T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-11T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-12T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-13T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-14T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-15T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-17T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-18T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-19T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-20T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-21T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-22T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-24T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-25T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-26T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-27T10:45:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-07-28T10:45:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2019-08-15T18:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Opéra du Caire",
+    "city": "Le Caire",
+    "country": "Égypte",
+    "dates": [
+      {
+        "datetime": "2019-09-15T20:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2019-09-16T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Château de Bernicourt",
+    "city": "Roost-Warendin",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2019-10-04T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Espace Christian Genevard",
+    "city": "Morteau",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2019-10-17T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Zeughaus Kultur",
+    "city": "Brig",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2019-11-06T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre Espace Coluche",
+    "city": "Plaisir",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2019-11-23T20:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Cité de la Culture",
+    "city": "Tunis",
+    "country": "Tunisie",
+    "dates": [
+      {
+        "datetime": "2019-12-10T17:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Kairouan",
+    "city": "Kairouan",
+    "country": "Tunisie",
+    "dates": [
+      {
+        "datetime": "2019-12-12T18:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Gafsa",
+    "city": "Gafsa",
+    "country": "Tunisie",
+    "dates": [
+      {
+        "datetime": "2019-12-14T10:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre de la Gaîté-Montparnasse",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2020-01-18T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-01-19T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-01-20T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-01-21T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-01-25T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-01-26T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-01-27T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-01-28T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-01T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-02T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-03T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-04T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-08T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-09T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-10T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-11T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-15T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-16T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-17T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-18T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-22T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-23T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-24T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-25T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-02-29T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-03-01T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-03-02T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-03-03T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-03-04T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-03-07T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-03-08T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-03-09T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-03-10T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-03-11T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-03-14T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-15T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-16T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-17T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-21T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-22T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-23T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-24T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-28T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-29T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-30T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-03-31T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-04T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-05T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-06T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-07T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-11T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-12T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-13T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-14T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-18T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-19T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-20T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-21T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-25T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-26T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-27T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-04-28T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-02T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-03T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-04T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-05T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-09T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-10T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-11T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-12T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-16T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-17T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-18T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-19T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-23T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-24T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-25T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-26T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-30T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-05-31T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-06-01T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-06-02T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-06-06T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-06-07T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-06-08T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-06-09T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-06-13T16:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-06-14T20:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-06-15T19:00:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-06-16T19:00:00",
+        "cancelled": true
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Atrium de Chaville",
+    "city": "Chaville",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2020-02-01T20:45:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre Toursky",
+    "city": "Marseille",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2020-05-30T20:30:00",
+        "cancelled": true
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre du Balcon",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2020-07-04T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-05T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-06T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-08T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-09T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-10T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-11T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-12T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-13T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-15T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-16T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-17T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-18T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-19T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-20T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-22T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-23T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-24T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-25T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-26T10:45:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-07-27T10:45:00",
+        "cancelled": true
+      }
+    ]
+  },
+  {
+    "show_id": 2,
+    "show_name": "L'Oubli des Anges",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2020-08-08T16:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-08-09T16:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 91,
+    "show_name": "Noces de Joie",
+    "venue": "Le Balcon du Ciel",
+    "city": "Nax",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2020-08-13T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-08-14T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-08-15T21:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-08-16T21:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Festival Aux Actes Citoyens",
+    "city": "Tomblaine",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2020-09-26T19:00:00",
+        "cancelled": true
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre Toursky",
+    "city": "Marseille",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2020-10-02T20:30:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2020-10-03T20:30:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 91,
+    "show_name": "Noces de Joie",
+    "venue": "Théâtre INTERFACE",
+    "city": "Sion",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2020-10-26T19:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-10-27T19:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-10-28T19:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-10-29T19:30:00",
+        "cancelled": true
+      },
+      {
+        "datetime": "2020-10-30T19:30:00",
+        "cancelled": true
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Théâtre du Pré-aux-Moines",
+    "city": "Cossonay",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2020-12-10T20:30:00",
+        "cancelled": true
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "St-Lo",
+    "city": "Saint-Lo",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2021-02-16T20:30:00",
+        "cancelled": true
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "Cruas",
+    "city": "Cruas",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2021-06-28T20:30:00",
+        "cancelled": true
+      }
+    ]
+  },
+  {
+    "show_id": 91,
+    "show_name": "Noces de Joie",
+    "venue": "Le Chapeau d'Ébène",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2022-07-07T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-08T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-09T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-10T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-11T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-13T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-14T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-15T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-16T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-17T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-18T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-20T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-21T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-22T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-23T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-24T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-25T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-27T13:15:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2022-07-28T13:15:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 53,
+    "show_name": "Vive la vie",
+    "venue": "St-Malo",
+    "city": "Saint-Malo",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2022-12-08T20:30:00",
+        "cancelled": true
+      }
+    ]
+  },
+  {
+    "show_id": 137,
+    "show_name": "Au creux de mon silence",
+    "venue": "Le Beaulieu",
+    "city": "Payerne",
+    "country": "Suisse",
+    "dates": [
+      {
+        "datetime": "2023-12-03T17:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 137,
+    "show_name": "Au creux de mon silence",
+    "venue": "Théâtre des Mathurins",
+    "city": "Paris",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2024-04-11T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-04-18T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-04-25T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-05-02T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-05-09T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-05-16T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-05-23T19:00:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-05-30T19:00:00",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "show_id": 137,
+    "show_name": "Au creux de mon silence",
+    "venue": "Théâtre 3S",
+    "city": "Avignon",
+    "country": "France",
+    "dates": [
+      {
+        "datetime": "2024-07-02T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-03T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-04T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-05T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-06T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-07T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-08T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-09T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-10T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-11T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-12T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-13T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-14T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-16T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-17T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-18T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-19T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-20T22:22:00",
+        "cancelled": false
+      },
+      {
+        "datetime": "2024-07-21T22:22:00",
+        "cancelled": false
+      }
+    ]
+  }
+]

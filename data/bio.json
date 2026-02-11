@@ -1,0 +1,118 @@
+{
+  "name": "Géraldine Lonfat",
+  "title": "Danseuse, chorégraphe, metteuse en scène",
+  "intro": "Née en Valais, Géraldine Lonfat est d'abord une sportive de haut niveau — championne suisse de gymnastique rythmique et sportive en 1984. Elle fait ensuite la transition vers la danse contemporaine et fonde la Compagnie Interface en 1990 à Sion.",
+  "bio_paragraphs": [
+    "Pendant plus de 30 ans, Géraldine Lonfat crée des spectacles mêlant danse, théâtre, musique et opéra, portés par une vision artistique singulière où le corps est au centre de tout.",
+    "Ses créations ont tourné dans plus de 20 pays sur 4 continents — de Paris à Shanghai, d'Avignon au Caire, de la Réunion à Séoul. Près de 1000 représentations témoignent d'une carrière d'une rare intensité.",
+    "En 2021, elle survit à un cancer du sein. De cette épreuve naît un engagement nouveau : elle enseigne désormais la danse aux femmes touchées par le cancer, et crée \"Au creux de mon silence\", un spectacle né de cette expérience intime.",
+    "Aujourd'hui à la tête de la Compagnie Géraldine Lonfat, elle poursuit son travail de création avec la même exigence et la même passion qu'au premier jour."
+  ],
+  "awards": [
+    {
+      "name": "Championne suisse de GRS",
+      "year": 1984,
+      "details": "Gymnastique Rythmique et Sportive"
+    },
+    {
+      "name": "Prix culturel de la Ville de Sion",
+      "year": 1993,
+      "details": ""
+    },
+    {
+      "name": "Prix d'encouragement de l'État du Valais",
+      "year": 1999,
+      "details": ""
+    },
+    {
+      "name": "Prix du Public du Festival d'Avignon",
+      "year": 2014,
+      "details": "Pour \"Teruel\" au Festival Off"
+    },
+    {
+      "name": "Mérite Sportif du Panathlon Valais-Sion",
+      "year": 2018,
+      "details": "Pour la qualité exceptionnelle et la longévité de sa carrière"
+    },
+    {
+      "name": "Meilleur spectacle — Festival International d'Amman",
+      "year": 2019,
+      "details": "14e Festival International du Théâtre Libéral"
+    },
+    {
+      "name": "Meilleure interprétation féminine — Amman",
+      "year": 2019,
+      "details": "Pour Johanna Rittiner"
+    },
+    {
+      "name": "Prix spécial du Jury / ITI — Amman",
+      "year": 2019,
+      "details": "Pour la mise en scène"
+    },
+    {
+      "name": "Éligible aux Molières",
+      "year": 2020,
+      "details": "\"Vive la Vie\" catégorie Spectacle Musical"
+    }
+  ],
+  "cycles": [
+    {
+      "name": "Le Mythe de l'Homme",
+      "description": "Tétralogie — 10 ans de création",
+      "shows": [
+        "Teruel",
+        "Pazzi",
+        "Shabbath",
+        "Kaos"
+      ]
+    },
+    {
+      "name": "Les Âges de Vie",
+      "description": "Pentalogie",
+      "shows": [
+        "J'ai Hâte d'Aimer",
+        "L'Oubli des Anges",
+        "Traces",
+        "Noces de Joie"
+      ]
+    },
+    {
+      "name": "Le Cycle des Utopies",
+      "description": "",
+      "shows": [
+        "Les Hérétiques"
+      ]
+    }
+  ],
+  "stats": {
+    "representations_played": 928,
+    "representations_cancelled": 88,
+    "countries": [
+      "Allemagne",
+      "Burkina Faso",
+      "Chine",
+      "Corée du Sud",
+      "Espagne",
+      "France",
+      "Guyane",
+      "Iran",
+      "Italie",
+      "Jordan",
+      "La Réunion",
+      "Latvia",
+      "Liban",
+      "Luxembourg",
+      "Maroc",
+      "Martinique",
+      "Roumanie",
+      "Suisse",
+      "Tunisie",
+      "Égypte"
+    ],
+    "num_countries": 20,
+    "num_shows": 11,
+    "first_year": 2003,
+    "last_year": 2024,
+    "years_active": 22
+  }
+}

@@ -1,0 +1,505 @@
+/* ============================================
+   Compagnie Géraldine Lonfat — Stylesheet
+   ============================================ */
+
+:root {
+  --noir: #1a1a1a;
+  --blanc: #faf9f7;
+  --or: #b8956a;
+  --or-clair: #d4b896;
+  --gris: #6b6b6b;
+  --gris-clair: #e8e6e3;
+  --gris-fond: #f5f4f2;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  color: var(--noir);
+  background: var(--blanc);
+  line-height: 1.7;
+  font-size: 17px;
+}
+
+/* --- Typography --- */
+
+h1, h2, h3, h4 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: 400;
+  line-height: 1.3;
+}
+
+h1 { font-size: 3rem; }
+h2 { font-size: 2.2rem; margin-bottom: 1rem; }
+h3 { font-size: 1.5rem; margin-bottom: 0.5rem; }
+
+a {
+  color: var(--or);
+  text-decoration: none;
+  transition: color 0.3s;
+}
+a:hover { color: var(--noir); }
+
+/* --- Layout --- */
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+section {
+  padding: 5rem 0;
+}
+
+/* --- Navigation --- */
+
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  background: rgba(26, 26, 26, 0.95);
+  backdrop-filter: blur(10px);
+  padding: 1rem 0;
+}
+
+nav .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav .logo {
+  color: var(--blanc);
+  font-family: Georgia, serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+nav .logo:hover { color: var(--or); }
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+nav ul a {
+  color: var(--gris-clair);
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+nav ul a:hover { color: var(--or); }
+
+/* --- Hero --- */
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: var(--noir);
+  color: var(--blanc);
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 120px;
+  background: linear-gradient(transparent, var(--noir));
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  padding: 2rem;
+}
+
+.hero h1 {
+  font-size: 4rem;
+  letter-spacing: 0.1em;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.hero .subtitle {
+  font-size: 1.3rem;
+  color: var(--or);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+.hero .tagline {
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 1.2rem;
+  color: var(--gris-clair);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* --- Stats bar --- */
+
+.stats-bar {
+  background: var(--noir);
+  color: var(--blanc);
+  padding: 3rem 0;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  text-align: center;
+}
+
+.stat-number {
+  font-family: Georgia, serif;
+  font-size: 3rem;
+  color: var(--or);
+  display: block;
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--gris);
+  margin-top: 0.3rem;
+}
+
+/* --- Section headers --- */
+
+.section-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.section-header h2 {
+  position: relative;
+  display: inline-block;
+}
+
+.section-header h2::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 2px;
+  background: var(--or);
+  margin: 1rem auto 0;
+}
+
+.section-header p {
+  color: var(--gris);
+  font-style: italic;
+  margin-top: 1rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* --- Show cards --- */
+
+.shows-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+}
+
+.show-card {
+  background: var(--blanc);
+  border: 1px solid var(--gris-clair);
+  transition: transform 0.3s, box-shadow 0.3s;
+  overflow: hidden;
+}
+
+.show-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.1);
+}
+
+.show-card-img {
+  height: 220px;
+  background: var(--gris-clair);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.show-card-img .year-badge {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  background: var(--or);
+  color: var(--blanc);
+  padding: 0.3rem 0.8rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.show-card-body {
+  padding: 1.5rem;
+}
+
+.show-card-body .category {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--or);
+  margin-bottom: 0.5rem;
+}
+
+.show-card-body h3 {
+  font-size: 1.4rem;
+  margin-bottom: 0.8rem;
+}
+
+.show-card-body .show-stats {
+  font-size: 0.85rem;
+  color: var(--gris);
+}
+
+/* --- Dark section --- */
+
+.section-dark {
+  background: var(--noir);
+  color: var(--blanc);
+}
+
+.section-dark h2 { color: var(--blanc); }
+.section-dark h2::after { background: var(--or); }
+
+/* --- Alt background section --- */
+
+.section-alt {
+  background: var(--gris-fond);
+}
+
+/* --- Timeline / Awards --- */
+
+.awards-list {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.award-item {
+  display: flex;
+  gap: 2rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--gris-clair);
+  align-items: baseline;
+}
+
+.section-dark .award-item {
+  border-bottom-color: rgba(255,255,255,0.1);
+}
+
+.award-year {
+  font-family: Georgia, serif;
+  font-size: 1.5rem;
+  color: var(--or);
+  min-width: 70px;
+  text-align: right;
+}
+
+.award-text h4 {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.award-text p {
+  font-size: 0.9rem;
+  color: var(--gris);
+}
+
+.section-dark .award-text p {
+  color: var(--gris);
+}
+
+/* --- Bio --- */
+
+.bio-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: start;
+}
+
+.bio-text p {
+  margin-bottom: 1.2rem;
+  color: #444;
+}
+
+.bio-photo {
+  height: 500px;
+  background: var(--gris-clair);
+  background-size: cover;
+  background-position: center;
+}
+
+/* --- Cycles --- */
+
+.cycles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.cycle-card {
+  padding: 2rem;
+  border: 1px solid rgba(255,255,255,0.15);
+}
+
+.cycle-card h3 {
+  color: var(--or);
+  margin-bottom: 0.5rem;
+}
+
+.cycle-card .cycle-desc {
+  font-style: italic;
+  color: var(--gris);
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.cycle-card ul {
+  list-style: none;
+}
+
+.cycle-card li {
+  padding: 0.3rem 0;
+  padding-left: 1.2rem;
+  position: relative;
+}
+
+.cycle-card li::before {
+  content: '—';
+  position: absolute;
+  left: 0;
+  color: var(--or);
+}
+
+/* --- Countries --- */
+
+.countries-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  justify-content: center;
+}
+
+.country-tag {
+  background: rgba(255,255,255,0.1);
+  padding: 0.4rem 1rem;
+  font-size: 0.85rem;
+  border: 1px solid rgba(255,255,255,0.15);
+}
+
+/* --- Calendar / Dates table --- */
+
+.year-group {
+  margin-bottom: 3rem;
+}
+
+.year-group h3 {
+  font-size: 2rem;
+  color: var(--or);
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--gris-clair);
+}
+
+.events-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.events-table td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid var(--gris-clair);
+  font-size: 0.95rem;
+  vertical-align: top;
+}
+
+.events-table .date-col {
+  width: 140px;
+  color: var(--gris);
+  white-space: nowrap;
+}
+
+.events-table .show-col {
+  font-weight: 600;
+}
+
+.events-table .venue-col {
+  color: var(--gris);
+}
+
+.events-table .cancelled td {
+  color: var(--gris-clair);
+  text-decoration: line-through;
+  font-style: italic;
+}
+
+/* --- Footer --- */
+
+footer {
+  background: var(--noir);
+  color: var(--gris);
+  padding: 3rem 0;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+footer a { color: var(--or-clair); }
+
+/* --- Contact --- */
+
+.contact-info {
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+.contact-info a {
+  font-size: 1.3rem;
+}
+
+/* --- Responsive --- */
+
+@media (max-width: 768px) {
+  .hero h1 { font-size: 2.5rem; }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+  .bio-content { grid-template-columns: 1fr; }
+  .bio-photo { height: 300px; }
+  nav ul { gap: 1rem; }
+  nav ul a { font-size: 0.75rem; }
+  h2 { font-size: 1.8rem; }
+  .show-card-img { height: 180px; }
+  .events-table .venue-col { display: none; }
+}
+
+@media (max-width: 480px) {
+  .hero h1 { font-size: 1.8rem; }
+  .hero .subtitle { font-size: 1rem; }
+  .stats-grid { grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+  .stat-number { font-size: 2.2rem; }
+  nav ul { display: none; }
+  section { padding: 3rem 0; }
+}

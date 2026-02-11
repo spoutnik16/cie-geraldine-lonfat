@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block title %}Spectacles — Compagnie Géraldine Lonfat{% endblock %}
+
+{% block content %}
+
+<section style="padding-top: 8rem;">
+  <div class="container">
+    <div class="section-header">
+      <h2>Spectacles</h2>
+      <p>{{ shows|length }} créations — de Teruel (2003) à X-elles</p>
+    </div>
+
+    <div class="shows-grid">
+      {% for show in shows|reverse %}
+      <div class="show-card" id="{{ show.slug }}">
+        <div class="show-card-img" {% if show.miniature %}style="background-image: url('static/images/{{ show.miniature }}')"{% endif %}>
+          <span class="year-badge">{{ show.first_year }}</span>
+        </div>
+        <div class="show-card-body">
+          {% if show.category %}<p class="category">{{ show.category }}</p>{% endif %}
+          <h3>{{ show.name }}</h3>
+          {% if show.stats.played > 0 %}
+          <p class="show-stats">
+            {{ show.stats.played }} représentation{{ 's' if show.stats.played > 1 else '' }}
+            · {{ show.stats.countries|length }} pays
+            {% if show.stats.cancelled > 0 %} · {{ show.stats.cancelled }} annulée{{ 's' if show.stats.cancelled > 1 else '' }}{% endif %}
+          </p>
+          {% endif %}
+          {% if show.short_description %}
+          <p style="margin-top: 0.8rem; font-size: 0.95rem; color: #555;">{{ show.short_description|truncate(200) }}</p>
+          {% endif %}
+          {% if show.distributions %}
+          <p style="margin-top: 0.8rem; font-size: 0.85rem; color: var(--gris);">
+            {% for d in show.distributions[:6] %}{{ d.name }}{% if not loop.last %}, {% endif %}{% endfor %}
+            {% if show.distributions|length > 6 %}…{% endif %}
+          </p>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Cycles -->
+<section class="section-dark">
+  <div class="container">
+    <div class="section-header">
+      <h2>Cycles de création</h2>
+    </div>
+    <div class="cycles-grid">
+      {% for cycle in bio.cycles %}
+      <div class="cycle-card">
+        <h3>{{ cycle.name }}</h3>
+        {% if cycle.description %}<p class="cycle-desc">{{ cycle.description }}</p>{% endif %}
+        <ul>
+          {% for show_name in cycle.shows %}
+          <li>{{ show_name }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% endblock %}

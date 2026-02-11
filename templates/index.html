@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% block title %}Compagnie Géraldine Lonfat — Danse, Théâtre, Musique{% endblock %}
+
+{% block content %}
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-content">
+    <h1>Géraldine Lonfat</h1>
+    <p class="subtitle">Danseuse &middot; Chorégraphe &middot; Metteuse en scène</p>
+    <p class="tagline">Le corps au centre de tout. Plus de 30 ans de création entre danse, théâtre, musique et opéra.</p>
+  </div>
+</section>
+
+<!-- Stats -->
+<section class="stats-bar">
+  <div class="container">
+    <div class="stats-grid">
+      <div>
+        <span class="stat-number">{{ bio.stats.representations_played }}</span>
+        <span class="stat-label">Représentations</span>
+      </div>
+      <div>
+        <span class="stat-number">{{ bio.stats.num_shows }}</span>
+        <span class="stat-label">Créations</span>
+      </div>
+      <div>
+        <span class="stat-number">{{ bio.stats.num_countries }}</span>
+        <span class="stat-label">Pays</span>
+      </div>
+      <div>
+        <span class="stat-number">{{ bio.stats.years_active }}</span>
+        <span class="stat-label">Ans de carrière</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Spectacles récents -->
+<section>
+  <div class="container">
+    <div class="section-header">
+      <h2>Créations</h2>
+      <p>Des spectacles mêlant danse, théâtre, musique et opéra</p>
+    </div>
+    <div class="shows-grid">
+      {% for show in shows_recent %}
+      <div class="show-card">
+        <div class="show-card-img" {% if show.miniature %}style="background-image: url('static/images/{{ show.miniature }}')"{% endif %}>
+          <span class="year-badge">{{ show.first_year }}</span>
+        </div>
+        <div class="show-card-body">
+          {% if show.category %}<p class="category">{{ show.category }}</p>{% endif %}
+          <h3>{{ show.name }}</h3>
+          <p class="show-stats">{{ show.stats.played }} représentation{{ 's' if show.stats.played > 1 else '' }} · {{ show.stats.countries|length }} pays</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <p style="text-align: center; margin-top: 2rem;">
+      <a href="spectacles.html" style="text-transform: uppercase; letter-spacing: 0.1em; font-size: 0.9rem;">Voir tous les spectacles →</a>
+    </p>
+  </div>
+</section>
+
+<!-- Prix -->
+<section class="section-dark">
+  <div class="container">
+    <div class="section-header">
+      <h2>Prix et distinctions</h2>
+    </div>
+    <div class="awards-list">
+      {% for award in bio.awards|reverse %}
+      <div class="award-item">
+        <span class="award-year">{{ award.year }}</span>
+        <div class="award-text">
+          <h4>{{ award.name }}</h4>
+          {% if award.details %}<p>{{ award.details }}</p>{% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Pays -->
+<section class="section-alt">
+  <div class="container">
+    <div class="section-header">
+      <h2>Tournées internationales</h2>
+      <p>4 continents, {{ bio.stats.num_countries }} pays et territoires</p>
+    </div>
+    <div class="countries-list">
+      {% for country in bio.stats.countries %}
+      <span class="country-tag" style="background: var(--noir); color: var(--blanc);">{{ country }}</span>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% endblock %}

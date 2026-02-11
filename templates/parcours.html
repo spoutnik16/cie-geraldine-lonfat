@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}Parcours — Géraldine Lonfat{% endblock %}
+
+{% block content %}
+
+<section style="padding-top: 8rem;">
+  <div class="container">
+    <div class="section-header">
+      <h2>Parcours</h2>
+    </div>
+    <div class="bio-content">
+      <div class="bio-text">
+        {% for p in bio.bio_paragraphs %}
+        <p>{{ p }}</p>
+        {% endfor %}
+      </div>
+      <div class="bio-photo">
+        <!-- Photo à ajouter -->
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-dark">
+  <div class="container">
+    <div class="section-header">
+      <h2>Prix et distinctions</h2>
+    </div>
+    <div class="awards-list">
+      {% for award in bio.awards|reverse %}
+      <div class="award-item">
+        <span class="award-year">{{ award.year }}</span>
+        <div class="award-text">
+          <h4>{{ award.name }}</h4>
+          {% if award.details %}<p>{{ award.details }}</p>{% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section-alt">
+  <div class="container">
+    <div class="section-header">
+      <h2>Cycles de création</h2>
+      <p>Trois grands cycles structurent l'œuvre de Géraldine Lonfat</p>
+    </div>
+    <div class="cycles-grid">
+      {% for cycle in bio.cycles %}
+      <div class="cycle-card" style="border-color: var(--gris-clair);">
+        <h3>{{ cycle.name }}</h3>
+        {% if cycle.description %}<p class="cycle-desc">{{ cycle.description }}</p>{% endif %}
+        <ul>
+          {% for show_name in cycle.shows %}
+          <li>{{ show_name }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% endblock %}
