@@ -12,7 +12,7 @@
 
     <div class="shows-grid">
       {% for show in shows|reverse %}
-      <div class="show-card" id="{{ show.slug }}">
+      <a href="spectacle-{{ show.slug }}.html" class="show-card" id="{{ show.slug }}">
         <div class="show-card-img" {% if show.miniature %}style="background-image: url('static/images/{{ show.miniature }}')"{% endif %}>
           <span class="year-badge">{{ show.first_year }}</span>
         </div>
@@ -36,7 +36,7 @@
           </p>
           {% endif %}
         </div>
-      </div>
+      </a>
       {% endfor %}
     </div>
   </div>
@@ -55,7 +55,7 @@
         {% if cycle.description %}<p class="cycle-desc">{{ cycle.description }}</p>{% endif %}
         <ul>
           {% for show_name in cycle.shows %}
-          <li>{{ show_name }}</li>
+          <li>{{ show_name|show_link }}</li>
           {% endfor %}
         </ul>
       </div>

@@ -45,7 +45,7 @@
     </div>
     <div class="shows-grid">
       {% for show in shows_recent %}
-      <div class="show-card">
+      <a href="spectacle-{{ show.slug }}.html" class="show-card">
         <div class="show-card-img" {% if show.miniature %}style="background-image: url('static/images/{{ show.miniature }}')"{% endif %}>
           <span class="year-badge">{{ show.first_year }}</span>
         </div>
@@ -54,7 +54,7 @@
           <h3>{{ show.name }}</h3>
           <p class="show-stats">{{ show.stats.played }} représentation{{ 's' if show.stats.played > 1 else '' }} · {{ show.stats.countries|length }} pays</p>
         </div>
-      </div>
+      </a>
       {% endfor %}
     </div>
     <p style="text-align: center; margin-top: 2rem;">

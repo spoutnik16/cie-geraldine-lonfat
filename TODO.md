@@ -14,7 +14,10 @@
 - [ ] Favicon
 
 ## Contenu
-- [ ] Ajouter les spectacles anciens (Palosanto, Tempora, Légende dorée)
+- [ ] Ajouter les 4 spectacles pré-Teruel : Palosanto (1995), Circum Vitae, Tempora (~1999), Histoire d'elle
+  - Palosanto documenté via arsenic.ch (description, distribution, dates)
+  - Chercher des archives web pour les 3 autres
+  - Demander à Géraldine les infos manquantes (dates, descriptions, photos)
 - [ ] Compléter les descriptions manquantes des spectacles
 - [ ] Ajouter les liens vers la presse / articles
 - [ ] Page ou section vidéos / bandes-annonces

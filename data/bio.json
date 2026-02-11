@@ -1,7 +1,7 @@
 {
   "name": "Géraldine Lonfat",
   "title": "Danseuse, chorégraphe, metteuse en scène",
-  "intro": "Née en Valais, Géraldine Lonfat est d'abord une sportive de haut niveau — championne suisse de gymnastique rythmique et sportive en 1984. Elle fait ensuite la transition vers la danse contemporaine et fonde la Compagnie Interface en 1990 à Sion.",
+  "intro": "Née en Valais, Géraldine Lonfat est d'abord une sportive de haut niveau — championne suisse de gymnastique rythmique et sportive en 1984. Elle fait ensuite la transition vers la danse contemporaine et fonde la Compagnie Interface en 1990.",
   "bio_paragraphs": [
     "Pendant plus de 30 ans, Géraldine Lonfat crée des spectacles mêlant danse, théâtre, musique et opéra, portés par une vision artistique singulière où le corps est au centre de tout.",
     "Ses créations ont tourné dans plus de 20 pays sur 4 continents — de Paris à Shanghai, d'Avignon au Caire, de la Réunion à Séoul. Près de 1000 représentations témoignent d'une carrière d'une rare intensité.",
@@ -73,14 +73,16 @@
         "J'ai Hâte d'Aimer",
         "L'Oubli des Anges",
         "Traces",
+        "Vive la vie",
         "Noces de Joie"
       ]
     },
     {
-      "name": "Le Cycle des Utopies",
+      "name": "Nouveau Cycle",
       "description": "",
       "shows": [
-        "Les Hérétiques"
+        "Au creux de mon silence",
+        "X-elles"
       ]
     }
   ],
@@ -110,7 +112,7 @@
       "Égypte"
     ],
     "num_countries": 20,
-    "num_shows": 11,
+    "num_shows": 12,
     "first_year": 2003,
     "last_year": 2024,
     "years_active": 22

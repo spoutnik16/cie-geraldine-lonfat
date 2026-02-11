@@ -1,0 +1,195 @@
+{
+  "teruel": {
+    "press_quotes": [
+      {
+        "quote": "Un hymne à l'Amour !",
+        "source": "Les Trois Coups",
+        "author": "Benoît Lahoz",
+        "date": "27/07/2007"
+      },
+      {
+        "quote": "Un esthétisme qui élève le corps et l'âme.",
+        "source": "Le Nouvelliste",
+        "author": "Emmanuel Manzi",
+        "date": "26/07/2007"
+      },
+      {
+        "quote": "Un spectacle total qui bouleverse les sens et remue l'esprit !",
+        "source": "La Marseillaise",
+        "author": "Jean-Michel Gautier",
+        "date": "26/07/2007"
+      }
+    ],
+    "trailer_id": "2LBTDH7LzKA",
+    "trailer_type": "youtube",
+    "gallery_images": ["teruel1.jpg", "teruel2.jpg", "teruel3.jpg", "teruel4.jpg"]
+  },
+  "pazzi": {
+    "press_quotes": [
+      {
+        "quote": "Une chorégraphie remarquable, de la musique pénétrante, et un texte poignant.",
+        "source": "Arte",
+        "author": "Soiumette Ahmed",
+        "date": "12/07/2012"
+      },
+      {
+        "quote": "Des images qui marquent.",
+        "source": "L'Orient-Le Jour",
+        "author": "Edgar Davidian",
+        "date": "07/07/2010"
+      },
+      {
+        "quote": "Tour à tour on frissonne, on est ému, on réagit...",
+        "source": "Boîte à Culture",
+        "author": "Christine Audouard",
+        "date": "23/07/2012"
+      }
+    ],
+    "trailer_id": "xh1buSK1nIM",
+    "trailer_type": "youtube",
+    "gallery_images": ["pazzi1.jpg", "pazzi2.jpg", "pazzi3.jpg", "pazzi4.jpg"]
+  },
+  "shabbath": {
+    "press_quotes": [
+      {
+        "quote": "Un spectacle hallucinant, en deçà même du langage verbal.",
+        "source": "La Marseillaise",
+        "author": "Henry Lépine",
+        "date": "06/07/2010"
+      },
+      {
+        "quote": "Les deux danseuses sont tout simplement bouleversantes.",
+        "source": "Midi Libre",
+        "author": "Alain Schetrit",
+        "date": "10/07/2010"
+      },
+      {
+        "quote": "Rares sont les spectacles qui dégagent autant de puissance.",
+        "source": "Froggy Delight",
+        "author": "Nicolas Arnstam",
+        "date": "22/10/2012"
+      }
+    ],
+    "trailer_id": "vu97aHa_OoU",
+    "trailer_type": "youtube",
+    "gallery_images": ["shabbath1.jpg", "shabbath2.jpg", "shabbath3.jpg", "shabbath4.jpg"]
+  },
+  "kaos": {
+    "press_quotes": [
+      {
+        "quote": "Interface nous a mis KO. Un spectacle exemplaire.",
+        "source": "La Provence",
+        "author": "Tristan Jaurégy",
+        "date": "13/07/2011"
+      },
+      {
+        "quote": "Un spectacle ahurissant de rythme et d'énergie.",
+        "source": "France Bleue",
+        "author": "Charlotte Dimier",
+        "date": "20/07/2011"
+      },
+      {
+        "quote": "Une œuvre inoubliable.",
+        "source": "La Marseillaise",
+        "author": "Jean-Michel Gautier",
+        "date": "25/07/2011"
+      }
+    ],
+    "trailer_id": "5GpZ_YIeBNA",
+    "trailer_type": "youtube",
+    "gallery_images": ["kaos1.jpg", "kaos2.jpg", "kaos3.jpg", "kaos4.jpg"]
+  },
+  "loubli-des-anges": {
+    "press_quotes": [
+      {
+        "quote": "Le public sort assommé par la beauté de cet Opéra danse.",
+        "source": "Vaucluse Matin",
+        "author": "Céline Zug",
+        "date": "20/07/2013"
+      },
+      {
+        "quote": "Le coup de cœur de la rédaction !",
+        "source": "La Provence",
+        "author": "Sophie Bizot",
+        "date": "07/07/2015"
+      },
+      {
+        "quote": "Nous espérons que notre âme, à la fin de notre vie, aura la beauté et la grâce de cette danseuse.",
+        "source": "La Vie",
+        "author": "Frère Thiery et Frère Nicolas",
+        "date": "18/07/2013"
+      }
+    ],
+    "trailer_id": "NvsA5YghHK0",
+    "trailer_type": "youtube",
+    "gallery_images": ["loubli-des-anges1.jpg", "loubli-des-anges2.jpg", "loubli-des-anges3.jpg", "loubli-des-anges4.jpg"]
+  },
+  "jai-hate-daimer": {
+    "press_quotes": [
+      {
+        "quote": "Un spectacle intense émotionnellement, avec la divine Géraldine Lonfat.",
+        "source": "Le Parisien",
+        "author": "Sylvain Merle",
+        "date": "11/07/2016"
+      },
+      {
+        "quote": "Sur scène, une force vitale et furieuse à déplacer les horizons. On sort en se sentant Gulliver.",
+        "source": "La Provence",
+        "author": "Danièle Carraz",
+        "date": "22/07/2016"
+      },
+      {
+        "quote": "Le maître mot est l'émerveillement. Celui des enfants et des poètes, des cœurs et des corps.",
+        "source": "Froggy's Delight",
+        "author": "Nicolas Arnstam",
+        "date": "16/07/2016"
+      }
+    ],
+    "trailer_id": "1FZ1PX-kylQ",
+    "trailer_type": "youtube",
+    "gallery_images": ["jai-hate-daimer1.jpg", "jai-hate-daimer2.jpg", "jai-hate-daimer3.jpg", "jai-hate-daimer4.jpg"]
+  },
+  "les-heretiques": {
+    "press_quotes": [],
+    "trailer_id": null,
+    "trailer_type": null,
+    "gallery_images": ["les-heretiques1.jpg", "les-heretiques2.jpg", "les-heretiques3.jpg", "les-heretiques4.jpg"]
+  },
+  "traces": {
+    "press_quotes": [
+      {
+        "quote": "Une intensité inouïe.",
+        "source": "Regarts",
+        "author": "Jean-Michel Gautier",
+        "date": "07/06/2017"
+      }
+    ],
+    "trailer_id": "EtA7OMNea3s",
+    "trailer_type": "youtube",
+    "gallery_images": ["traces1.jpg", "traces2.jpg", "traces3.jpg", "traces4.jpg"]
+  },
+  "vive-la-vie": {
+    "press_quotes": [],
+    "trailer_id": "YlJhIohjaC0",
+    "trailer_type": "youtube",
+    "gallery_images": ["vive-la-vie1.jpg", "vive-la-vie2.jpg", "vive-la-vie4.jpg"]
+  },
+  "noces-de-joie": {
+    "press_quotes": [],
+    "trailer_id": null,
+    "trailer_type": null,
+    "gallery_images": ["ou-es-tu1.jpg", "ou-es-tu2.jpg", "ou-es-tu4.jpg", "noces-de-joie4.jpg"]
+  },
+  "au-creux-de-mon-silence": {
+    "press_quotes": [],
+    "trailer_id": null,
+    "trailer_type": null,
+    "gallery_images": []
+  },
+  "x-elles": {
+    "press_quotes": [],
+    "trailer_id": null,
+    "trailer_type": null,
+    "gallery_images": []
+  }
+}

@@ -53,7 +53,7 @@
         {% if cycle.description %}<p class="cycle-desc">{{ cycle.description }}</p>{% endif %}
         <ul>
           {% for show_name in cycle.shows %}
-          <li>{{ show_name }}</li>
+          <li>{{ show_name|show_link }}</li>
           {% endfor %}
         </ul>
       </div>

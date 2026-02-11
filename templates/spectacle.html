@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+{% block title %}{{ show.name }} — Compagnie Géraldine Lonfat{% endblock %}
+{% block meta_description %}{{ show.short_description|striptags|truncate(160) }}{% endblock %}
+
+{% block content %}
+
+<!-- En-tête du spectacle -->
+<section class="show-hero" {% if show.miniature %}style="background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.85)), url('static/images/{{ show.miniature }}')"{% endif %}>
+  <div class="container">
+    <p class="breadcrumb"><a href="spectacles.html">Spectacles</a> / {{ show.name }}</p>
+    <h1>{{ show.name }}</h1>
+    {% if show.category %}<p class="show-hero-category">{{ show.category }}</p>{% endif %}
+    <div class="show-hero-stats">
+      {% if show.first_year != "—" %}<span>{{ show.first_year }}{% if show.last_year and show.last_year != show.first_year %}–{{ show.last_year }}{% endif %}</span>{% endif %}
+      {% if show.stats.played > 0 %}<span>{{ show.stats.played }} représentation{{ 's' if show.stats.played > 1 else '' }}</span>{% endif %}
+      {% if show.stats.countries %}<span>{{ show.stats.countries|length }} pays</span>{% endif %}
+    </div>
+  </div>
+</section>
+
+<!-- Citations presse -->
+{% if show.press_quotes %}
+<section class="press-quotes">
+  <div class="container">
+    <div class="quotes-grid">
+      {% for q in show.press_quotes %}
+      <blockquote class="press-quote">
+        <p>{{ q.quote }}</p>
+        <cite>{{ q.source }}{% if q.author %} — {{ q.author }}{% endif %}{% if q.date %}, {{ q.date }}{% endif %}</cite>
+      </blockquote>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- Description -->
+<section class="show-description">
+  <div class="container">
+    <div class="show-text-content">
+      {{ show.description_clean }}
+    </div>
+  </div>
+</section>
+
+<!-- Galerie photos -->
+{% if show.gallery_images %}
+<section class="show-gallery section-dark">
+  <div class="container">
+    <h2>Photos</h2>
+    <div class="gallery-grid">
+      {% for img in show.gallery_images %}
+      <div class="gallery-item">
+        <img src="static/images/shows/{{ img }}" alt="{{ show.name }}" loading="lazy">
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- Bande-annonce -->
+{% if show.trailer_id %}
+<section class="show-trailer">
+  <div class="container">
+    <h2>Bande-annonce</h2>
+    <div class="trailer-wrapper">
+      {% if show.trailer_type == "youtube" %}
+      <iframe src="https://www.youtube.com/embed/{{ show.trailer_id }}?rel=0" allowfullscreen frameborder="0"></iframe>
+      {% elif show.trailer_type == "vimeo" %}
+      <iframe src="https://player.vimeo.com/video/{{ show.trailer_id }}" allowfullscreen frameborder="0"></iframe>
+      {% endif %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- Distribution -->
+{% if show.distributions %}
+<section class="show-distribution{% if not show.trailer_id %} section-dark{% endif %}">
+  <div class="container">
+    <h2>Distribution</h2>
+    <div class="distribution-grid">
+      {% for d in show.distributions %}
+      <div class="distribution-item">
+        <span class="dist-role">{{ d.role|replace('<br>', '')|replace('<br><br>', '') }}</span>
+        <span class="dist-name">{{ d.name }}</span>
+      </div>
+      {% endfor %}
+    </div>
+    {% if show.companies %}
+    <p class="show-companies">
+      {% for c in show.companies %}{{ c }}{% if not loop.last %} / {% endif %}{% endfor %}
+    </p>
+    {% endif %}
+  </div>
+</section>
+{% endif %}
+
+<!-- Pays de tournée -->
+{% if show.stats.countries %}
+<section class="show-countries section-alt">
+  <div class="container">
+    <h2>Tournée</h2>
+    <div class="countries-list">
+      {% for country in show.stats.countries %}
+      <span class="country-tag">{{ country }}</span>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<!-- Navigation entre spectacles -->
+<section class="show-nav">
+  <div class="container">
+    <div class="show-nav-links">
+      {% if prev_show %}<a href="spectacle-{{ prev_show.slug }}.html" class="show-nav-prev">&#8592; {{ prev_show.name }}</a>{% endif %}
+      <a href="spectacles.html" class="show-nav-all">Tous les spectacles</a>
+      {% if next_show %}<a href="spectacle-{{ next_show.slug }}.html" class="show-nav-next">{{ next_show.name }} &#8594;</a>{% endif %}
+    </div>
+  </div>
+</section>
+
+{% endblock %}

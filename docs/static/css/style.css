@@ -495,6 +495,232 @@ footer a { color: var(--or-clair); }
   .events-table .venue-col { display: none; }
 }
 
+/* ============================================
+   Pages spectacles individuelles
+   ============================================ */
+
+.show-hero {
+  padding: 10rem 0 4rem;
+  background-size: cover;
+  background-position: center;
+  color: var(--blanc);
+  text-align: center;
+}
+
+.show-hero .breadcrumb {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 1.5rem;
+  opacity: 0.7;
+}
+
+.show-hero .breadcrumb a { color: var(--or-clair); }
+
+.show-hero h1 {
+  font-size: 3.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.show-hero-category {
+  color: var(--or);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+.show-hero-stats {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  font-size: 1rem;
+  opacity: 0.85;
+}
+
+.show-hero-stats span {
+  padding: 0.3rem 0.8rem;
+  border: 1px solid rgba(255,255,255,0.3);
+  border-radius: 2rem;
+}
+
+/* Citations presse */
+.press-quotes { padding: 3rem 0; background: var(--gris-fond); }
+
+.quotes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.press-quote {
+  border-left: 3px solid var(--or);
+  padding: 1.5rem;
+  background: white;
+}
+
+.press-quote p {
+  font-style: italic;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: var(--noir);
+  margin-bottom: 0.8rem;
+}
+
+.press-quote p::before { content: "\201C"; }
+.press-quote p::after { content: "\201D"; }
+
+.press-quote cite {
+  font-style: normal;
+  font-size: 0.85rem;
+  color: var(--gris);
+}
+
+/* Description du spectacle */
+.show-description { padding: 4rem 0; }
+
+.show-text-content {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #333;
+}
+
+.show-text-content h3 {
+  color: var(--or);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.show-text-content p { margin-bottom: 1rem; }
+
+/* Galerie photos */
+.show-gallery h2 { margin-bottom: 2rem; }
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.gallery-item img:hover { transform: scale(1.03); }
+
+/* Bande-annonce */
+.show-trailer { padding: 4rem 0; }
+.show-trailer h2 { margin-bottom: 2rem; text-align: center; }
+
+.trailer-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.trailer-wrapper iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}
+
+/* Distribution */
+.show-distribution { padding: 4rem 0; }
+.show-distribution h2 { margin-bottom: 2rem; }
+
+.distribution-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  max-width: 900px;
+}
+
+.distribution-item {
+  display: flex;
+  flex-direction: column;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--gris-clair);
+}
+
+.dist-role {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--or);
+}
+
+.dist-name {
+  font-size: 1rem;
+  color: var(--noir);
+  margin-top: 0.2rem;
+}
+
+.show-companies {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: var(--gris);
+  font-style: italic;
+}
+
+/* Pays de tournée */
+.show-countries { padding: 3rem 0; }
+.show-countries h2 { margin-bottom: 1.5rem; }
+
+/* Navigation entre spectacles */
+.show-nav {
+  padding: 2rem 0;
+  border-top: 1px solid var(--gris-clair);
+}
+
+.show-nav-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.show-nav-links a {
+  color: var(--or);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.show-nav-links a:hover { text-decoration: underline; }
+
+.show-nav-all {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+/* Show card comme lien */
+a.show-card {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+a.show-card:hover .show-card-img {
+  transform: scale(1.02);
+}
+
+a.show-card .show-card-img {
+  transition: transform 0.3s ease;
+}
+
 @media (max-width: 480px) {
   .hero h1 { font-size: 1.8rem; }
   .hero .subtitle { font-size: 1rem; }
@@ -502,4 +728,9 @@ footer a { color: var(--or-clair); }
   .stat-number { font-size: 2.2rem; }
   nav ul { display: none; }
   section { padding: 3rem 0; }
+  .show-hero h1 { font-size: 2rem; }
+  .show-hero-stats { font-size: 0.85rem; gap: 0.8rem; }
+  .quotes-grid { grid-template-columns: 1fr; }
+  .gallery-grid { grid-template-columns: 1fr; }
+  .distribution-grid { grid-template-columns: 1fr; }
 }

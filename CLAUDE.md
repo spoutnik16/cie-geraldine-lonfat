@@ -61,7 +61,35 @@ Le champ `cancelled: true` dans events.json indique une date annulée (COVID, et
 - **Encoding** : UTF-8 partout
 - **CSS** : Un seul fichier `style.css`, pas de framework, variables CSS pour les couleurs
 - **Images** : Dans `static/images/`, formats JPG/WebP, optimisées
+- **Photos spectacles** : Dans `static/images/shows/` (73 photos HD + 4K copiées du site Compagnie Interface)
 - **Python** : Compatible Python 3.6+ (pas de f-strings walrus, pas de fromisoformat)
+
+## Sources de données (site Compagnie Interface)
+
+Le site original Compagnie Interface (`../`) contient du contenu riche réutilisable :
+
+### Templates de spectacles
+Dans `../templates/sites/compagnieinterface/spectacles/` : 12 templates Django avec :
+- **Citations presse** (3-4 par spectacle) avec source, auteur, date
+- **Processus de création** (200-500 mots) : récits d'immersion, méthodologie
+- **URLs YouTube** des bandes-annonces (embed IDs)
+
+Spectacles documentés : teruel, pazzi, shabbath, kaos, loubli-des-anges, jai-hate-daimer, les-heretiques, traces, vive-la-vie, noces-de-joie
+
+### Photos HD (déjà copiées)
+`static/images/shows/` contient 4 photos par spectacle + versions 4K :
+- teruel1-4.jpg, pazzi1-4.jpg, shabbath1-4.jpg, kaos1-4.jpg
+- loubli-des-anges1-4.jpg, jai-hate-daimer1-4.jpg (manque 1+3)
+- les-heretiques1-4.jpg, traces1-4.jpg
+- vive-la-vie1,2,4.jpg, noces-de-joie/ou-es-tu 1,2,4.jpg
+
+### Pages HTML archivées
+Dans `../temp/` : pages scrappées du site local (temp_teruel.html, temp_pazzi.html, etc.)
+
+### Dropbox
+`D:/Dropbox/GERALDINE/` contient les dossiers complets pour :
+- **Au creux de mon silence** : affiche, photos, presse, prix Francine Delacrétaz
+- **X-elles** : dossier de présentation (PDF), CV Florence Alayrac, partitions, textes
 
 ## Contexte
 
@@ -70,7 +98,14 @@ Le champ `cancelled: true` dans events.json indique une date annulée (COVID, et
 - A créé la Compagnie Géraldine Lonfat pour continuer
 - NE JAMAIS mentionner André Pignat ou le scandale sur le site
 - Les spectacles anciens (Compagnie Interface) sont présentés comme son travail personnel
-- ~928 représentations jouées, 88 annulées (COVID), 20 pays, 13 spectacles
+- ~928 représentations jouées, 88 annulées (COVID), 20 pays, 12 spectacles (+ 4 pré-Teruel à ajouter)
+
+## Spectacles pré-Teruel (à ajouter)
+4 spectacles avant Teruel (2003) pas encore dans le site :
+- **Palosanto** (1995) — arsenic.ch/archives/palosanto — description et distribution connues
+- **Circum Vitae** — dates et infos à chercher
+- **Tempora** (~1999) — Prix d'encouragement de l'État du Valais 1999
+- **Histoire d'elle** — dates et infos à chercher
 
 ## Utilisatrice
 
