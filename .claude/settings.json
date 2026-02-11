@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "git pull 2>/dev/null || echo 'No remote configured yet'"
+          }
+        ]
+      }
+    ]
+  }
+}
