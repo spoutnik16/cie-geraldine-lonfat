@@ -12,8 +12,12 @@
     {% if show.category %}<p class="show-hero-category">{{ show.category }}</p>{% endif %}
     <div class="show-hero-stats">
       {% if show.first_year != "—" %}<span>{{ show.first_year }}{% if show.last_year and show.last_year != show.first_year %}–{{ show.last_year }}{% endif %}</span>{% endif %}
-      {% if show.stats.played > 0 %}<span>{{ show.stats.played }} représentation{{ 's' if show.stats.played > 1 else '' }}</span>{% endif %}
+      {% if show.stats.played > 0 %}
+      <span>{{ show.stats.played }} représentation{{ 's' if show.stats.played > 1 else '' }}</span>
       {% if show.stats.countries %}<span>{{ show.stats.countries|length }} pays</span>{% endif %}
+      {% else %}
+      <span>Nouvelle création</span>
+      {% endif %}
     </div>
   </div>
 </section>

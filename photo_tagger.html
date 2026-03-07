@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Photo Tagger — Purge</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #1a1a1a; color: #eee; font-family: system-ui, sans-serif; height: 100vh; display: flex; flex-direction: column; }
+
+  .header {
+    padding: 12px 24px;
+    background: #222;
+    display: flex; align-items: center; gap: 20px;
+    border-bottom: 1px solid #333;
+    flex-shrink: 0;
+  }
+  .header h1 { font-size: 16px; font-weight: 600; }
+  .progress { color: #888; font-size: 14px; }
+  .show-name { color: #f0c040; font-size: 14px; font-weight: 600; }
+
+  .main { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; overflow: hidden; padding: 16px; gap: 12px; }
+
+  .photo-container { flex: 1; display: flex; align-items: center; justify-content: center; overflow: hidden; min-height: 0; }
+  .photo-container img { max-width: 100%; max-height: 100%; object-fit: contain; }
+
+  .filename { color: #666; font-size: 12px; }
+
+  .input-row {
+    display: flex; gap: 8px; width: 100%; max-width: 700px; flex-shrink: 0;
+  }
+  .input-row input {
+    flex: 1; padding: 10px 16px; font-size: 16px;
+    background: #2a2a2a; border: 2px solid #444; border-radius: 6px; color: #fff;
+    outline: none;
+  }
+  .input-row input:focus { border-color: #f0c040; }
+  .input-row input::placeholder { color: #666; }
+
+  .btn {
+    padding: 10px 20px; border: none; border-radius: 6px; font-size: 14px; cursor: pointer; font-weight: 600;
+  }
+  .btn-ok { background: #2d5a2d; color: #6f6; }
+  .btn-ok:hover { background: #3a7a3a; }
+  .btn-flag { background: #5a2d2d; color: #f66; }
+  .btn-flag:hover { background: #7a3a3a; }
+  .btn-back { background: #333; color: #aaa; }
+  .btn-back:hover { background: #444; }
+  .btn-export { background: #2d4a5a; color: #6cf; }
+  .btn-export:hover { background: #3a5a7a; }
+
+  .help {
+    color: #666; font-size: 12px; text-align: center; flex-shrink: 0;
+  }
+  .help kbd { background: #333; padding: 2px 6px; border-radius: 3px; font-size: 11px; }
+
+  .done {
+    text-align: center; padding: 40px;
+  }
+  .done h2 { color: #6f6; margin-bottom: 16px; }
+  .done pre {
+    background: #222; padding: 16px; border-radius: 8px; text-align: left;
+    max-height: 60vh; overflow: auto; font-size: 13px; margin: 16px 0;
+  }
+
+  .stats {
+    display: flex; gap: 16px; font-size: 13px; color: #888;
+  }
+  .stats .flagged { color: #f66; }
+  .stats .clean { color: #6f6; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Photo Tagger</h1>
+  <span class="show-name" id="showName"></span>
+  <span class="progress" id="progress"></span>
+  <div class="stats">
+    <span class="clean" id="statClean">0 OK</span>
+    <span class="flagged" id="statFlagged">0 flagged</span>
+  </div>
+</div>
+
+<div class="main" id="mainView">
+  <div class="photo-container">
+    <img id="photo" src="" alt="">
+  </div>
+  <div class="filename" id="filename"></div>
+  <div class="input-row">
+    <button class="btn btn-back" id="btnBack" title="Photo precedente">&larr;</button>
+    <input type="text" id="names" placeholder="Noms des personnes (ou vide = OK)..." autofocus>
+    <button class="btn btn-ok" id="btnOk">OK &rarr;</button>
+  </div>
+  <div class="help">
+    <kbd>Enter</kbd> valider &amp; suivante &nbsp;|&nbsp;
+    <kbd>&larr;</kbd> precedente &nbsp;|&nbsp;
+    Champ vide = photo OK &nbsp;|&nbsp;
+    Taper les noms = photo a virer
+  </div>
+</div>
+
+<div class="done" id="doneView" style="display:none">
+  <h2>Terminé !</h2>
+  <p id="summary"></p>
+  <pre id="results"></pre>
+  <div style="display:flex;gap:8px;justify-content:center">
+    <button class="btn btn-export" id="btnCopy">Copier le JSON</button>
+    <button class="btn btn-export" id="btnDownload">Telecharger le JSON</button>
+    <button class="btn btn-back" id="btnRestart">Recommencer</button>
+  </div>
+</div>
+
+<script>
+const PHOTOS = [
+  // Miniatures / affiches (racine images/)
+  { file: "static/images/teruel.jpg", show: "Teruel (miniature)" },
+  { file: "static/images/pazzi.jpg", show: "Pazzi (miniature)" },
+  { file: "static/images/shabbath.jpg", show: "Shabbath (miniature)" },
+  { file: "static/images/kaos.jpg", show: "Kaos (miniature)" },
+  { file: "static/images/l_oubli_des_anges.jpg", show: "L'Oubli des Anges (miniature)" },
+  { file: "static/images/j_ai_hate_d_aimer.jpg", show: "J'ai Hate d'Aimer (miniature)" },
+  { file: "static/images/heretiques.jpg", show: "Les Heretiques (miniature)" },
+  { file: "static/images/traces_square.jpg", show: "Traces (miniature)" },
+  { file: "static/images/traces_oVymk4t.jpg", show: "Traces (miniature 2)" },
+  { file: "static/images/P9270160_smaller.jpg", show: "Photo diverse" },
+  { file: "static/images/et_le_mur_je_l_abat.jpg", show: "Photo diverse" },
+  { file: "static/images/au_creux_de_mon_silence.jpg", show: "Au creux de mon silence (miniature)" },
+  { file: "static/images/x_elles.jpg", show: "X-elles (miniature)" },
+  { file: "static/images/x_elles_debug_X0_1240x1754.jpg", show: "X-elles (debug)" },
+
+  // Photos HD par spectacle
+  { file: "static/images/shows/teruel1.jpg", show: "Teruel" },
+  { file: "static/images/shows/teruel2.jpg", show: "Teruel" },
+  { file: "static/images/shows/teruel3.jpg", show: "Teruel" },
+  { file: "static/images/shows/teruel4.jpg", show: "Teruel" },
+
+  { file: "static/images/shows/pazzi1.jpg", show: "Pazzi" },
+  { file: "static/images/shows/pazzi2.jpg", show: "Pazzi" },
+  { file: "static/images/shows/pazzi3.jpg", show: "Pazzi" },
+  { file: "static/images/shows/pazzi4.jpg", show: "Pazzi" },
+
+  { file: "static/images/shows/shabbath1.jpg", show: "Shabbath" },
+  { file: "static/images/shows/shabbath2.jpg", show: "Shabbath" },
+  { file: "static/images/shows/shabbath3.jpg", show: "Shabbath" },
+  { file: "static/images/shows/shabbath4.jpg", show: "Shabbath" },
+
+  { file: "static/images/shows/kaos1.jpg", show: "Kaos" },
+  { file: "static/images/shows/kaos2.jpg", show: "Kaos" },
+  { file: "static/images/shows/kaos3.jpg", show: "Kaos" },
+  { file: "static/images/shows/kaos4.jpg", show: "Kaos" },
+
+  { file: "static/images/shows/loubli-des-anges1.jpg", show: "L'Oubli des Anges" },
+  { file: "static/images/shows/loubli-des-anges2.jpg", show: "L'Oubli des Anges" },
+  { file: "static/images/shows/loubli-des-anges3.jpg", show: "L'Oubli des Anges" },
+  { file: "static/images/shows/loubli-des-anges4.jpg", show: "L'Oubli des Anges" },
+
+  { file: "static/images/shows/jai-hate-daimer1.jpg", show: "J'ai Hate d'Aimer" },
+  { file: "static/images/shows/jai-hate-daimer2.jpg", show: "J'ai Hate d'Aimer" },
+  { file: "static/images/shows/jai-hate-daimer3.jpg", show: "J'ai Hate d'Aimer" },
+  { file: "static/images/shows/jai-hate-daimer4.jpg", show: "J'ai Hate d'Aimer" },
+
+  { file: "static/images/shows/les-heretiques1.jpg", show: "Les Heretiques" },
+  { file: "static/images/shows/les-heretiques2.jpg", show: "Les Heretiques" },
+  { file: "static/images/shows/les-heretiques3.jpg", show: "Les Heretiques" },
+  { file: "static/images/shows/les-heretiques4.jpg", show: "Les Heretiques" },
+
+  { file: "static/images/shows/traces1.jpg", show: "Traces" },
+  { file: "static/images/shows/traces2.jpg", show: "Traces" },
+  { file: "static/images/shows/traces3.jpg", show: "Traces" },
+  { file: "static/images/shows/traces4.jpg", show: "Traces" },
+
+  { file: "static/images/shows/vive-la-vie1.jpg", show: "Vive la vie" },
+  { file: "static/images/shows/vive-la-vie2.jpg", show: "Vive la vie" },
+  { file: "static/images/shows/vive-la-vie4.jpg", show: "Vive la vie" },
+
+  { file: "static/images/shows/noce-de-joie1.jpg", show: "Noces de Joie" },
+  { file: "static/images/shows/noces-de-joie4.jpg", show: "Noces de Joie" },
+
+  { file: "static/images/shows/ou-es-tu1.jpg", show: "Ou es-tu (Noces)" },
+  { file: "static/images/shows/ou-es-tu2.jpg", show: "Ou es-tu (Noces)" },
+  { file: "static/images/shows/ou-es-tu4.jpg", show: "Ou es-tu (Noces)" },
+];
+
+// State
+let current = 0;
+let annotations = {};
+
+// Load saved state
+const saved = localStorage.getItem('photo_tagger');
+if (saved) {
+  try {
+    const state = JSON.parse(saved);
+    annotations = state.annotations || {};
+    current = state.current || 0;
+  } catch(e) {}
+}
+
+function save() {
+  localStorage.setItem('photo_tagger', JSON.stringify({ current, annotations }));
+}
+
+function updateStats() {
+  let clean = 0, flagged = 0;
+  for (const [k, v] of Object.entries(annotations)) {
+    if (v) flagged++; else clean++;
+  }
+  document.getElementById('statClean').textContent = clean + ' OK';
+  document.getElementById('statFlagged').textContent = flagged + ' flagged';
+}
+
+function showPhoto() {
+  if (current >= PHOTOS.length) {
+    showDone();
+    return;
+  }
+  document.getElementById('mainView').style.display = '';
+  document.getElementById('doneView').style.display = 'none';
+
+  const p = PHOTOS[current];
+  document.getElementById('photo').src = p.file;
+  document.getElementById('showName').textContent = p.show;
+  document.getElementById('progress').textContent = (current + 1) + ' / ' + PHOTOS.length;
+  document.getElementById('filename').textContent = p.file;
+
+  const input = document.getElementById('names');
+  input.value = annotations[p.file] || '';
+  input.focus();
+  updateStats();
+}
+
+function next() {
+  const input = document.getElementById('names');
+  const p = PHOTOS[current];
+  annotations[p.file] = input.value.trim();
+  save();
+  current++;
+  save();
+  showPhoto();
+}
+
+function back() {
+  if (current > 0) {
+    const input = document.getElementById('names');
+    const p = PHOTOS[current];
+    if (p) annotations[p.file] = input.value.trim();
+    current--;
+    save();
+    showPhoto();
+  }
+}
+
+function showDone() {
+  document.getElementById('mainView').style.display = 'none';
+  document.getElementById('doneView').style.display = '';
+
+  const flagged = Object.entries(annotations).filter(([k,v]) => v);
+  const clean = Object.entries(annotations).filter(([k,v]) => !v);
+
+  document.getElementById('summary').textContent =
+    clean.length + ' photos OK, ' + flagged.length + ' photos a virer';
+
+  const result = {
+    to_remove: flagged.map(([file, names]) => ({ file, names })),
+    ok: clean.map(([file]) => file)
+  };
+  document.getElementById('results').textContent = JSON.stringify(result, null, 2);
+  updateStats();
+}
+
+// Events
+document.getElementById('names').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') { e.preventDefault(); next(); }
+  if (e.key === 'ArrowLeft' && e.target.selectionStart === 0) { e.preventDefault(); back(); }
+});
+document.getElementById('btnOk').addEventListener('click', next);
+document.getElementById('btnBack').addEventListener('click', back);
+document.getElementById('btnCopy').addEventListener('click', () => {
+  navigator.clipboard.writeText(document.getElementById('results').textContent);
+  document.getElementById('btnCopy').textContent = 'Copie !';
+  setTimeout(() => document.getElementById('btnCopy').textContent = 'Copier le JSON', 1500);
+});
+document.getElementById('btnDownload').addEventListener('click', () => {
+  const blob = new Blob([document.getElementById('results').textContent], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'photo_tags.json';
+  a.click();
+});
+document.getElementById('btnRestart').addEventListener('click', () => {
+  current = 0;
+  annotations = {};
+  save();
+  showPhoto();
+});
+
+// Start
+showPhoto();
+</script>
+</body>
+</html>

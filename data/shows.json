@@ -10,44 +10,7 @@
     "companies": [
       "Compagnie INTERFACE"
     ],
-    "distributions": [
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Conception et Mise en Scène<br><br><br>"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Conception et Mise en Scène<br><br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "Stéphanie Boll",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Musique originale"
-      },
-      {
-        "name": "librement inpsiré de <i>Rhône Saga</i> de Pierre Imhasly",
-        "role": "Texte"
-      },
-      {
-        "name": "Gerda Pignat",
-        "role": "Costumes"
-      },
-      {
-        "name": "Patrick Jacquérioz",
-        "role": "Scénographie"
-      },
-      {
-        "name": "David Gaudin",
-        "role": "Vidéo"
-      }
-    ],
+    "distributions": [],
     "stats": {
       "played": 222,
       "cancelled": 0,
@@ -77,44 +40,7 @@
     "companies": [
       "Compagnie INTERFACE"
     ],
-    "distributions": [
-      {
-        "name": "André Pignat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Stéphanie Boll",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "Stéphanie Boll",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Musique originale"
-      },
-      {
-        "name": "librements inpsiré des écrits de Marie-Madeleine de Pazzi",
-        "role": "Texte"
-      },
-      {
-        "name": "Gerda Pignat",
-        "role": "Costumes"
-      },
-      {
-        "name": "Patrick Jacquérioz",
-        "role": "Scénographie"
-      }
-    ],
+    "distributions": [],
     "stats": {
       "played": 80,
       "cancelled": 0,
@@ -133,46 +59,13 @@
     "name": "Les Hérétiques",
     "slug": "les-heretiques",
     "category": "Musique-Danse-Théâtre",
-    "description": "<p>\r\nCe spectacle avait été créé en 2006 à l'Ancien Pénitencier de Valère de Sion, occupé par les Musées Cantonaux. La décision de faire une nouvelle mise en scène de ce spectacle, adapté cette fois au théâtre et avec d'autres comédiens, a été prise en écho à la situation politique actuelle. En effet, celle-ci nous amène à réveiller ce spectacle, tout à fait en lien avec l'actualité. En outre, nous voulons en faire une version capable de s'adapter à toutes les cultures, qui ont toutes passé par une période d'Inquisition.\r\n</p>\r\n<p>\r\nAujourd'hui d'ailleurs, quasiment toutes les idéologies (comme par exemple la démocratie) et religions (comme par exemple l'Islam) prennent le chemin de l'Inquisition. Nous avons donc pris des textes du XVIème siècle écrits d'une part par une sainte, Marie-Madeleine de Pazzi, et d'autre part par les inquisiteurs de cette même époque. Partant du même livre, la Bible, dans un cas on rencontre l'amour, l'ouverture, la sainte folie, la vie, et dans l'autre l'interdit, la fermeture, la peur, et enfin la mort. La trame du spectacle est cette question de l'inquisiteur : \"<cite>Marie-Madeleine de Pazzi est-elle une démone?</cite>\" Cette histoire a réellement existé. En effet, Marie-Madeleine de Pazzi, qui avait des extases, a été visitée et contrôlée par l'Inquisition.\r\n</p>\r\n<p>\r\nSur scène, vous verrez deux inquisiteurs, interprétés par Paul Patin et Thomas Laubacher, une moniale incarnant Marie-Madeleine de Pazzi, interprétée par Daphné Rhea Pellissier, et une « sorcière », interprétée par Géraldine Lonfat. L'action se situe dans une prison ou un monastère, on ne sait pas. Les inquisiteurs, garants de <b>la vérité</b>, essayent de démontrer que la lecture de la Bible de ces deux femmes est fausse.\r\n</p>",
+    "description": "<p>\r\nCe spectacle avait été créé en 2006 à l'Ancien Pénitencier de Valère de Sion, occupé par les Musées Cantonaux. La décision de faire une nouvelle mise en scène de ce spectacle, adapté cette fois au théâtre et avec d'autres comédiens, a été prise en écho à la situation politique actuelle. En effet, celle-ci nous amène à réveiller ce spectacle, tout à fait en lien avec l'actualité. En outre, nous voulons en faire une version capable de s'adapter à toutes les cultures, qui ont toutes passé par une période d'Inquisition.\r\n</p>\r\n<p>\r\nAujourd'hui d'ailleurs, quasiment toutes les idéologies (comme par exemple la démocratie) et religions (comme par exemple l'Islam) prennent le chemin de l'Inquisition. Nous avons donc pris des textes du XVIème siècle écrits d'une part par une sainte, Marie-Madeleine de Pazzi, et d'autre part par les inquisiteurs de cette même époque. Partant du même livre, la Bible, dans un cas on rencontre l'amour, l'ouverture, la sainte folie, la vie, et dans l'autre l'interdit, la fermeture, la peur, et enfin la mort. La trame du spectacle est cette question de l'inquisiteur : \"<cite>Marie-Madeleine de Pazzi est-elle une démone?</cite>\" Cette histoire a réellement existé. En effet, Marie-Madeleine de Pazzi, qui avait des extases, a été visitée et contrôlée par l'Inquisition.\r\n</p>\r\n<p>\r\nSur scène, deux inquisiteurs, une moniale incarnant Marie-Madeleine de Pazzi, et une « sorcière ». L’action se situe dans une prison ou un monastère, on ne sait pas. L'action se situe dans une prison ou un monastère, on ne sait pas. Les inquisiteurs, garants de <b>la vérité</b>, essayent de démontrer que la lecture de la Bible de ces deux femmes est fausse.\r\n</p>",
     "short_description": "Aujourd'hui d'ailleurs, quasiment toutes les idéologies (comme par exemple la démocratie) et religions (comme par exemple l'Islam) prennent le chemin de l'Inquisition. Nous avons donc pris des textes du XVIème siècle écrits d'une part par une sainte, Marie-Madeleine de Pazzi, et d'autre part par les inquisiteurs de cette même époque. Partant du même livre, la Bible, dans un cas on rencontre l'amour, l'ouverture, la sainte folie, la vie, et dans l'autre l'interdit, la fermeture, la peur, et enfin la mort. La trame du spectacle est cette question de l'inquisiteur : \"<cite>Marie-Madeleine de Pazzi est-elle une démone?</cite>\" ",
     "miniature": "heretiques.jpg",
     "companies": [
       "Compagnie INTERFACE"
     ],
-    "distributions": [
-      {
-        "name": "André Pignat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Stéphanie Boll",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Musique originale"
-      },
-      {
-        "name": "librements inpsiré des écrits de Marie-Madeleine de Pazzi",
-        "role": "Texte"
-      },
-      {
-        "name": "Gerda Pignat",
-        "role": "Costumes"
-      },
-      {
-        "name": "Patrick Jacquérioz",
-        "role": "Scénographie"
-      }
-    ],
+    "distributions": [],
     "stats": {
       "played": 12,
       "cancelled": 0,
@@ -192,40 +85,7 @@
     "companies": [
       "Compagnie INTERFACE"
     ],
-    "distributions": [
-      {
-        "name": "André Pignat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Stéphanie Boll",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Musique originale"
-      },
-      {
-        "name": "adapté de l'eouvre originale de Corrina Bille par Thomas laubache",
-        "role": "Texte"
-      },
-      {
-        "name": "Gerda Pignat",
-        "role": "Costumes"
-      },
-      {
-        "name": "Pierre Favre",
-        "role": "Scénographie"
-      }
-    ],
+    "distributions": [],
     "stats": {
       "played": 61,
       "cancelled": 0,
@@ -241,45 +101,12 @@
     "slug": "shabbath",
     "category": "Musique-Danse-Théâtre-Opéra",
     "description": "<section>\r\n<p>\r\nC'est le regard de notre génération sur les générations passées. Il est aussi l’expression de notre intolérance sur les intolérances passées. C’est ainsi que ce spectacle évoque la conscientisation de la mémoire ancestrale qui nous habite et que nous utilisons pour ou contre notre propre évolution.\r\n</p>\r\n<p>\r\nAvec Shabbatt, il est nécessaire de se réconcilier avec le passé, avec tous nos ancêtres, pour nous permettre de nous propulser vers un avenir serein.\r\n</p>\r\n</section>\r\n\r\n<section>\r\n<h3>Processus de création</h3>\r\n<p>\r\nPour débuter le processus de création de Shabbath, l'équipe de création a cherché à se confronter aux relations de pouvoir ainsi qu'à mettre à l'épreuve la notion de domination.\r\n</p>\r\n<p>\r\nPour cela, les locaux d'INTERFACE on été transformés en une sorte de caserne, ou de camp, dirigé à tour de rôle par l'un des membres de la compagnie prenant le rôle d'un dictateur aux pouvoirs absolus. Chacun a disposé d'un mois pour installer et faire observer ses propres règles. Les autres, après avoir accepté les règles du jeu, étaient tenus de les appliquer sans retour possible.\r\n</p>\r\n<p>\r\nLeurs découvertes ont nourri tout le travail de recherche artistique. Il a été passionnant de constater combien chacun d'entre eux, dans une situation donnée, réagissait de manière différente, et comment finalement, le pouvoir sied à certains et détruit littéralement d'autres.\r\n</p>\r\n<p>\r\nD'un chef à l'autre, la manière d'obéir aux ordres variait considérablement. Suivant le niveau de résonance d'un ordre donné, et suivant le sens qu'on lui attribuait, il y était répondu soit avec zèle et énergie ou au contraire avec un manque d'enthousiasme évident.\r\n</p>\r\n<p>\r\nDans un système comme INTERFACE, non hiérarchisé, où le travail de chef est rémunéré de la même façon que celui de concierge, chacun prend naturellement la place où il est le plus capable et surtout, le plus heureux. Dès lors que cette harmonie a été volontairement brisée, et que les personnes ont été transposées à des places qui n'étaient pas les leurs, le système s'est enrayé et l'harmonie du groupe a disparu.\r\n</p>\r\n<p>\r\nRenforcés par ces mois de flirt avec le pouvoir, les membres de la compagnie ont pu se questionner sur son sens. Ils en ont déduit qu'il existe sous deux formes : celui qui élève la masse, la rendant productive et efficace car il permet à chacun de réaliser ses rêves, et celui qui l'affaiblit, la rendant apathique et infructueuse.\r\n</p>\r\n</section>\r\n\r\n<section>\r\n<p>\r\nFinalement, la grande leçon de Shabbath est que pour qu'une société fonctionne harmonieusement, il faut que chacun trouve sa place. Non celle où il gagnera le plus d'argent, mais bien celle réunissant tous les paramètres lui permettant d'être au maximum de son potentiel humain et professionnel.\r\n</p>\r\n<p>\r\nC'est ainsi qu'imprégnés de toutes ces nouvelles informations éprouvées dans leur corps, la compagnie a construit Shabbath avec trois personnages, chacun représentant une manière de fonctionner dans les rapports de pouvoir. Sur scène, on fait connaissance avec une figure de dictateur, une figure de suiveur possédant un énorme pouvoir sur le dictateur et la figure du révolutionnaire, celui qui à un moment donné décide de contrecarrer le pouvoir en place.\r\n</p>\r\n<p>\r\nSHABBAT est né, un spectacle fort au cœur du Pouvoir. Un spectacle qui agit comme un miroir pour le spectateur, qui ébranle, provoque des émotions et pousse à se positionner par rapport à sa propre manière de fonctionner face à son entourage. Bouleversant et édifiant!\r\n</p>\r\n</section>\r\n\r\n<section><iframe src=\"https://player.vimeo.com/video/23086458?color=ffffff&amp;byline=0&amp;portrait=0\" width=\"800\" height=\"600\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></section>",
-    "short_description": "C'est le regard de notre génération sur les générations passées. Il est aussi l’expression de notre intolérance sur les intolérances passées. C’est ainsi que ce spectacle évoque la conscientisation de la mémoire ancestrale qui nous habite et que nous utilisons pour ou contre notre propre évolution.\r\nAvec SHABBATH, il est nécessaire de se réconcilier avec le passé, avec tous nos ancêtres, pour nous permettre de nous propulser vers un avenir serein.",
+    "short_description": "C’est le regard de notre génération sur les générations passées. Il est aussi l’expression de notre intolérance sur les intolérances passées. C’est ainsi que ce spectacle évoque la conscientisation de la mémoire ancestrale qui nous habite et que nous utilisons pour ou contre notre propre évolution.\r\nAvec SHABBATH, il est nécessaire de se réconcilier avec le passé, avec tous nos ancêtres, pour nous permettre de nous propulser vers un avenir serein.",
     "miniature": "shabbath.jpg",
     "companies": [
       "Compagnie INTERFACE"
     ],
-    "distributions": [
-      {
-        "name": "André Pignat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Stéphanie Boll",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Musique originale"
-      },
-      {
-        "name": "Stéphane Albelda",
-        "role": "Texte"
-      },
-      {
-        "name": "Gerda Pignat",
-        "role": "Costumes"
-      },
-      {
-        "name": "Pierre Favre",
-        "role": "Scénographie"
-      }
-    ],
+    "distributions": [],
     "stats": {
       "played": 97,
       "cancelled": 0,
@@ -301,36 +128,7 @@
     "companies": [
       "Compagnie INTERFACE"
     ],
-    "distributions": [
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Musique originale"
-      },
-      {
-        "name": "Stéphane Albelda",
-        "role": "Texte"
-      },
-      {
-        "name": "Gerda Pignat",
-        "role": "Costumes"
-      },
-      {
-        "name": "Jean-Blaise Évéquoz",
-        "role": "Peinture"
-      }
-    ],
+    "distributions": [],
     "stats": {
       "played": 184,
       "cancelled": 0,
@@ -352,40 +150,7 @@
     "companies": [
       "Compagnie INTERFACE"
     ],
-    "distributions": [
-      {
-        "name": "André Pignat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Conception et Mise en Scène<br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Musique originale"
-      },
-      {
-        "name": "Francis Lalanne",
-        "role": "Texte"
-      },
-      {
-        "name": "Gerda Pignat",
-        "role": "Costumes"
-      },
-      {
-        "name": "Gwendoline Roh",
-        "role": "Costumes"
-      },
-      {
-        "name": "Lucy Hopkins",
-        "role": "Coaching maître clown"
-      }
-    ],
+    "distributions": [],
     "stats": {
       "played": 74,
       "cancelled": 0,
@@ -409,40 +174,7 @@
     "companies": [
       "Compagnie INTERFACE"
     ],
-    "distributions": [
-      {
-        "name": "André Pignat",
-        "role": "Conception et mise en scène<br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Conception et mise en scène<br><br>"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Musique originale"
-      },
-      {
-        "name": "Francis Lalanne",
-        "role": "Textes<br><br>"
-      },
-      {
-        "name": "Jérôme Hugon",
-        "role": "Lumières<br><br>"
-      },
-      {
-        "name": "Gwendoline Roh",
-        "role": "Costumes"
-      },
-      {
-        "name": "Kim Salah",
-        "role": "Costumes"
-      }
-    ],
+    "distributions": [],
     "stats": {
       "played": 9,
       "cancelled": 0,
@@ -458,84 +190,11 @@
     "category": "Danse-Musique-Théâtre",
     "description": "<p>&quot;Vive la vie!!!&quot; est un spectacle relatant les transformations du mode de vie familial au cours du si&egrave;cle pass&eacute; et du d&eacute;but de ce si&egrave;cle.<br />\r\nUn spectacle qui commence dans cette soci&eacute;t&eacute; paysanne fig&eacute;e, avec ses r&egrave;gles et ses codes relationnels et vestimentaires. Puis petit &agrave; petit, la technologie bouleverse les habitudes et les certitudes. Gr&acirc;ce aux d&eacute;couvertes scientifiques, et notamment &agrave; l&#39;arriv&eacute;e de l&#39;&eacute;lectricit&eacute;, de nouveaux modes de penser apparaissent. La certitude est alors que la technologie nous faciliterait tellement la vie qu&#39;elle nous permettrait de mieux vivre ensemble. Pourtant, au fur et &agrave; mesure que les ann&eacute;es pass&egrave;rent, quelque chose ne tourna pas rond dans ce monde presque parfait.<br />\r\nLe spectacle :<br />\r\nTout commence en 1900. Les relations hommes femmes ainsi que parents enfants sont d&eacute;crites, la musique, les v&ecirc;tements, les outils utilis&eacute;s aussi. Puis tout s&#39;acc&eacute;l&egrave;re et nous arrivons 20 ans plus tard, dans un contexte de fin de premi&egrave;re guerre mondiale, qui a fait bouger certains paradigmes. L&#39;homme est devenu chaire &agrave; canon, la femme s&#39;&eacute;mancipe d&eacute;j&agrave;, les enfants deviennent patrimoine d&#39;&eacute;tat (car pour faire les guerres modernes, il faut beaucoup d&#39;hommes beaucoup de chair &agrave; canon), la femme devient le symbole de la m&egrave;re mod&egrave;le qui doit amener ses enfants &agrave; maturit&eacute;, elle est de moins en moins celle qui soutient son mari. Puis on saute encore 20 ans plus tard, et ainsi de suite... On voit &eacute;voluer les mentalit&eacute;s de g&eacute;n&eacute;ration en g&eacute;n&eacute;ration, ainsi que l&#39;habillement, la musique, les enfants et les outils m&eacute;nagers, lib&eacute;rant la femme de ses t&acirc;ches, avec en fond cette vision de plus en plus forte que ce qui est scientifique est juste et bien. Et le monde s&#39;acc&eacute;l&egrave;re avec l&#39;apparition de la radio, de la TV, l&#39;intimit&eacute; familiale dispara&icirc;t, on se connecte sur des ordis et des Ipad. Chacun se lib&egrave;re de ses t&acirc;ches fastidieuses, mais en m&ecirc;me temps, au lieu d&#39;utiliser ce nouveau temps pour la rencontre, on s&#39;isole de plus en plus, pour &agrave; la fin ne plus qu&#39;&ecirc;tre colocataires les uns des autres. Appara&icirc;t enfin l&#39;homme nouveau : l&#39;&ecirc;tre ordinateur qui prend tranquillement la place &agrave; l&#39;&ecirc;tre humain. L&#39;&ecirc;tre humain &eacute;tait celui qui utilisait son exp&eacute;rience, son savoir pour agir et interagir, l&#39;&ecirc;tre ordinateur est celui qui a abandonn&eacute; son libre arbitre et son action &agrave; la science, qui se tourne vers elle d&egrave;s que &ccedil;a ne marche pas. Science technique, mais aussi science sociale, on vit par protocole, par mani&egrave;re de faire.<br />\r\nFinalement la science prend le dessus sur l&#39;homme. C&#39;est la science qui dit ce qui est r&eacute;el ou ne l&#39;est pas, et tant pis si &ccedil;a n&#39;a aucun lien avec la r&eacute;alit&eacute;. Vu que c&#39;est scientifique, c&#39;est forc&eacute;ment vrai. A la fin du spectacle on en viendra &agrave; nier ce que l&#39;on voit et ce que l&#39;on ressent, celui qui a appris est devenu la r&eacute;f&eacute;rence, en opposition &agrave; celui qui a v&eacute;cu. La valeur de l&#39;exp&eacute;rience, de l&#39;amour, perd totalement de cr&eacute;dibilit&eacute;. Aimer c&#39;est &ecirc;tre faible, manipulable. Contrairement &agrave; la science, qui elle repose sur des slogans. Et les gens continuent &agrave; souffrir, &agrave; mourir &agrave; petit feu, &agrave; voir l&#39;&ecirc;tre humain devenir froid et sans &acirc;me, juste un ordinateur qui r&eacute;p&egrave;te inlassablement un sch&eacute;ma programm&eacute; &agrave; l int&eacute;rieur. La trame du spectacle, c&#39;est le combat entre deux mondes : celui de la modernit&eacute; &agrave; tout prix et celui de l&#39;amour, du lien &agrave; la nature, aux hommes, &agrave; la spiritualit&eacute;.<br />\r\nIl y aura 2 versions de ce spectacle : La premi&egrave;re pr&eacute;vue pour septembre 2017, centr&eacute;e plus sur l&#39;&eacute;volution des actions, des changements de mani&egrave;re de faire durant le XX&egrave;me si&egrave;cle, avec l&#39;&eacute;lectricit&eacute; comme leitmotiv, et la version de d&eacute;cembre 2017, qui elle se veut plus critique. Cette derni&egrave;re &eacute;voquera la transformation de l&#39;&ecirc;tre humain en &ecirc;tre ordinateur. Le nouvel homme promis par Nietzsche est arriv&eacute;. Le probl&egrave;me est qu&#39;il n&#39;est pas comme il l&#39;a d&eacute;crit.<br />\r\nL&#39;homme est-il vraiment devenu un ordinateur? Ou peut-&ecirc;tre que simplement, la science n&#39;a pas les moyens de voir les transformations profondes des &ecirc;tres?</p>",
     "short_description": "Un spectacle qui commence dans cette société paysanne figée, avec ses règles et ses codes relationnels et vestimentaires. Puis petit à petit, la technologie bouleverse les habitudes et les certitudes. Grâce aux découvertes scientifiques, et notamment à l'arrivée de l'électricité, de nouveaux modes de penser apparaissent. La certitude est alors que la technologie nous faciliterait tellement la vie qu'elle nous permettrait de mieux vivre ensemble. Pourtant, au fur et à mesure que les années passèrent, quelque chose ne tourna pas rond dans ce monde presque parfait",
-    "miniature": "P9270160_smaller.jpg",
+    "miniature": "vive_la_vie.jpg",
     "companies": [
       "Compagnie INTERFACE"
     ],
-    "distributions": [
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Conception"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Conception"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Chorégraphie"
-      },
-      {
-        "name": "André Pignat",
-        "role": "Musique originale, mise en scène"
-      },
-      {
-        "name": "Johanna Rittiner Sermier",
-        "role": "Musique originale"
-      },
-      {
-        "name": "Thomas Laubacher",
-        "role": "Texte"
-      },
-      {
-        "name": "Paul Patin",
-        "role": "Avec"
-      },
-      {
-        "name": "Anais Gribaldi",
-        "role": "Avec"
-      },
-      {
-        "name": "Christopher Courneau",
-        "role": "Avec"
-      },
-      {
-        "name": "Daphné Rhéa Pellissier",
-        "role": "Avec"
-      },
-      {
-        "name": "Thomas Laubacher",
-        "role": "Avec"
-      },
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Avec"
-      },
-      {
-        "name": "Johanna Rittiner Sermier",
-        "role": "Avec"
-      },
-      {
-        "name": "Sara Dotta",
-        "role": "Avec"
-      },
-      {
-        "name": "Joseph Viatte",
-        "role": "Avec"
-      },
-      {
-        "name": "Kim Salah",
-        "role": "Costumes"
-      },
-      {
-        "name": "Jean Margelisch",
-        "role": "Photos"
-      },
-      {
-        "name": "Jérôme Hugon",
-        "role": "Lumières"
-      }
-    ],
+    "distributions": [],
     "stats": {
       "played": 138,
       "cancelled": 83,
@@ -565,92 +224,7 @@
       "Compagnie INTERFACE",
       "Compagnie Géraldine Lonfat"
     ],
-    "distributions": [
-      {
-        "name": "Géraldine Lonfat",
-        "role": "Chorégraphie, conception"
-      },
-      {
-        "name": "Jean-Camille Sormain",
-        "role": "Mise en scène"
-      },
-      {
-        "name": "Stéphane Albelda",
-        "role": "Texte"
-      },
-      {
-        "name": "Terre Brûlante",
-        "role": "Musique"
-      },
-      {
-        "name": "Kim Salah",
-        "role": "Costumes"
-      },
-      {
-        "name": "Gerda Pignat",
-        "role": "Costumes"
-      },
-      {
-        "name": "Jérôme Hugon",
-        "role": "Lumières"
-      },
-      {
-        "name": "Khadija El Mahdi",
-        "role": "Masques"
-      },
-      {
-        "name": "Céline Pagan",
-        "role": "Maquillage"
-      },
-      {
-        "name": "Jim Planche",
-        "role": "Photographie"
-      },
-      {
-        "name": "Mathilde Mottier",
-        "role": "Diffusion"
-      },
-      {
-        "name": "François Vila",
-        "role": "Relations presse"
-      },
-      {
-        "name": "Florence Alayrac",
-        "role": "Avec"
-      },
-      {
-        "name": "David Faggionato",
-        "role": "Avec"
-      },
-      {
-        "name": "Daphné Rhéa Pellissier",
-        "role": "Avec"
-      },
-      {
-        "name": "Sofia Efraimsson",
-        "role": "Avec"
-      },
-      {
-        "name": "Sara Dotta",
-        "role": "Avec"
-      },
-      {
-        "name": "Eric Tinot",
-        "role": "Musicien"
-      },
-      {
-        "name": "Thomas Laubacher",
-        "role": "Avec"
-      },
-      {
-        "name": "Xavier Loira",
-        "role": "Avec"
-      },
-      {
-        "name": "Johanna Rittiner Sermier",
-        "role": "Musique originale"
-      }
-    ],
+    "distributions": [],
     "stats": {
       "played": 23,
       "cancelled": 5,

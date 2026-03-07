@@ -42,7 +42,7 @@
     {
       "name": "Meilleure interprétation féminine — Amman",
       "year": 2019,
-      "details": "Pour Johanna Rittiner"
+      "details": ""
     },
     {
       "name": "Prix spécial du Jury / ITI — Amman",
@@ -50,9 +50,9 @@
       "details": "Pour la mise en scène"
     },
     {
-      "name": "Éligible aux Molières",
+      "name": "En lice pour les Molières",
       "year": 2020,
-      "details": "\"Vive la Vie\" catégorie Spectacle Musical"
+      "details": "\"Vive la Vie\" catégorie Spectacle Musical — cérémonie annulée (COVID)"
     }
   ],
   "cycles": [
@@ -115,6 +115,6 @@
     "num_shows": 12,
     "first_year": 2003,
     "last_year": 2024,
-    "years_active": 22
+    "years_active": "30+"
   }
 }

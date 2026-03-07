@@ -209,11 +209,14 @@ def build():
     # Build main pages
     pages = {
         "index.html": {
-            "shows_recent": sorted(
-                shows,
-                key=lambda s: (9999 if s.get("first_year") == "\u2014" else s.get("first_year", 0)),
-                reverse=True,
-            )[:6],
+            "shows_recent": [
+                s for s in sorted(
+                    shows,
+                    key=lambda s: (9999 if s.get("first_year") == "\u2014" else s.get("first_year", 0)),
+                    reverse=True,
+                )
+                if s["slug"] in ("x-elles", "au-creux-de-mon-silence", "vive-la-vie", "shabbath", "loubli-des-anges", "teruel")
+            ],
         },
         "spectacles.html": {},
         "parcours.html": {},

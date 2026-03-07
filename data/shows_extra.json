@@ -22,7 +22,11 @@
     ],
     "trailer_id": "2LBTDH7LzKA",
     "trailer_type": "youtube",
-    "gallery_images": ["teruel1.jpg", "teruel2.jpg", "teruel3.jpg", "teruel4.jpg"]
+    "gallery_images": [
+      "teruel2.jpg",
+      "teruel3.jpg",
+      "teruel4.jpg"
+    ]
   },
   "pazzi": {
     "press_quotes": [
@@ -47,7 +51,9 @@
     ],
     "trailer_id": "xh1buSK1nIM",
     "trailer_type": "youtube",
-    "gallery_images": ["pazzi1.jpg", "pazzi2.jpg", "pazzi3.jpg", "pazzi4.jpg"]
+    "gallery_images": [
+      "pazzi4.jpg"
+    ]
   },
   "shabbath": {
     "press_quotes": [
@@ -72,7 +78,7 @@
     ],
     "trailer_id": "vu97aHa_OoU",
     "trailer_type": "youtube",
-    "gallery_images": ["shabbath1.jpg", "shabbath2.jpg", "shabbath3.jpg", "shabbath4.jpg"]
+    "gallery_images": []
   },
   "kaos": {
     "press_quotes": [
@@ -97,7 +103,9 @@
     ],
     "trailer_id": "5GpZ_YIeBNA",
     "trailer_type": "youtube",
-    "gallery_images": ["kaos1.jpg", "kaos2.jpg", "kaos3.jpg", "kaos4.jpg"]
+    "gallery_images": [
+      "kaos1.jpg"
+    ]
   },
   "loubli-des-anges": {
     "press_quotes": [
@@ -122,7 +130,9 @@
     ],
     "trailer_id": "NvsA5YghHK0",
     "trailer_type": "youtube",
-    "gallery_images": ["loubli-des-anges1.jpg", "loubli-des-anges2.jpg", "loubli-des-anges3.jpg", "loubli-des-anges4.jpg"]
+    "gallery_images": [
+      "loubli-des-anges4.jpg"
+    ]
   },
   "jai-hate-daimer": {
     "press_quotes": [
@@ -147,13 +157,17 @@
     ],
     "trailer_id": "1FZ1PX-kylQ",
     "trailer_type": "youtube",
-    "gallery_images": ["jai-hate-daimer1.jpg", "jai-hate-daimer2.jpg", "jai-hate-daimer3.jpg", "jai-hate-daimer4.jpg"]
+    "gallery_images": [
+      "jai-hate-daimer1.jpg"
+    ]
   },
   "les-heretiques": {
     "press_quotes": [],
     "trailer_id": null,
     "trailer_type": null,
-    "gallery_images": ["les-heretiques1.jpg", "les-heretiques2.jpg", "les-heretiques3.jpg", "les-heretiques4.jpg"]
+    "gallery_images": [
+      "les-heretiques4.jpg"
+    ]
   },
   "traces": {
     "press_quotes": [
@@ -166,19 +180,28 @@
     ],
     "trailer_id": "EtA7OMNea3s",
     "trailer_type": "youtube",
-    "gallery_images": ["traces1.jpg", "traces2.jpg", "traces3.jpg", "traces4.jpg"]
+    "gallery_images": [
+      "traces1.jpg",
+      "traces2.jpg",
+      "traces3.jpg",
+      "traces4.jpg"
+    ]
   },
   "vive-la-vie": {
     "press_quotes": [],
     "trailer_id": "YlJhIohjaC0",
     "trailer_type": "youtube",
-    "gallery_images": ["vive-la-vie1.jpg", "vive-la-vie2.jpg", "vive-la-vie4.jpg"]
+    "gallery_images": []
   },
   "noces-de-joie": {
     "press_quotes": [],
     "trailer_id": null,
     "trailer_type": null,
-    "gallery_images": ["ou-es-tu1.jpg", "ou-es-tu2.jpg", "ou-es-tu4.jpg", "noces-de-joie4.jpg"]
+    "gallery_images": [
+      "ou-es-tu1.jpg",
+      "ou-es-tu2.jpg",
+      "ou-es-tu4.jpg"
+    ]
   },
   "au-creux-de-mon-silence": {
     "press_quotes": [],

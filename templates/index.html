@@ -52,7 +52,7 @@
         <div class="show-card-body">
           {% if show.category %}<p class="category">{{ show.category }}</p>{% endif %}
           <h3>{{ show.name }}</h3>
-          <p class="show-stats">{{ show.stats.played }} représentation{{ 's' if show.stats.played > 1 else '' }} · {{ show.stats.countries|length }} pays</p>
+          <p class="show-stats">{% if show.stats.played > 0 %}{{ show.stats.played }} représentation{{ 's' if show.stats.played > 1 else '' }} · {{ show.stats.countries|length }} pays{% else %}Nouvelle création{% endif %}</p>
         </div>
       </a>
       {% endfor %}
